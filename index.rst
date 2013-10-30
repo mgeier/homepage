@@ -1,11 +1,17 @@
-.. Homepage documentation master file, created by
-   sphinx-quickstart on Tue Oct 29 22:01:14 2013.
+Welcome to my Homepage or Blog or Whatever-It-Is™!
+==================================================
 
-Welcome to my Homepage!
-=======================
+It's not really a homepage.
 
-This is just a test!
-Nothing to see here!
+It isn't a blog either.
+
+It's an abuse of a free online documentation service.
+
+It's an abomination.
+
+Whatever.
+
+If you don't like it, why are you still here? Go away!
 
 Contents:
 
@@ -13,7 +19,7 @@ Contents:
    :maxdepth: 2
 
    make_tutorial/make_tutorial
-   getting_started
+   sphinx
 
 
 .. Indices and tables

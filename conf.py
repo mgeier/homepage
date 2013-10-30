@@ -25,7 +25,7 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.mathjax']
+#extensions = ['sphinx.ext.mathjax']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Homepage'
+project = u'homepage/blog/whatever'
 copyright = u'2013, Matthias Geier'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -103,7 +103,7 @@ html_theme = 'default'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'My Homepage?'
+html_title = project
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Homepagedoc'
+#htmlhelp_basename = 'doc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -183,8 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'Homepage.tex', u'Homepage Documentation',
-   u'Matthias Geier', 'manual'),
+  ('index', 'homepage.tex', project, u'Matthias Geier', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -212,10 +211,9 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [
-    ('index', 'homepage', u'Homepage Documentation',
-     [u'Matthias Geier'], 1)
-]
+#man_pages = [
+#    ('index', 'homepage', project, [u'Matthias Geier'], 1)
+#]
 
 # If true, show URL addresses after external links.
 #man_show_urls = False
@@ -226,11 +224,11 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [
-  ('index', 'Homepage', u'Homepage Documentation',
-   u'Matthias Geier', 'Homepage', 'One line description of project.',
-   'Miscellaneous'),
-]
+#texinfo_documents = [
+#  ('index', 'Homepage', project,
+#   u'Matthias Geier', 'Homepage', 'One line description of project.',
+#   'Miscellaneous'),
+#]
 
 # Documents to append as an appendix to all manuals.
 #texinfo_appendices = []

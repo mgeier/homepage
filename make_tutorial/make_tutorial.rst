@@ -3,9 +3,15 @@
 Make Tutorial
 =============
 
-This is, much like the internet itself, and democracy, work-in-progress.
+.. note::
+
+  This is, much like the internet itself, and democracy, work-in-progress.
 
 ...
+
+TODO: ``make`` runs other programs in the right order, handles intermediate
+files and generates files only if it's necessary (i.e. if the sources have
+changed).
 
 ``make`` Without Makefile
 -------------------------
@@ -26,8 +32,8 @@ Now we can simply run ... ::
 
   make hello
 
-... and it will magically be compiled (if you have ``make`` and a C++ compiler
-installed).
+... and it will magically be compiled (that is, if you have ``make`` and a C++
+compiler installed).
 
 .. note::
 
@@ -73,9 +79,94 @@ can now simply call::
 
 ... and it will do the same thing as before.
 
+TODO: this can happen::
+
+  make: `hello' is up to date.
+
 From now on, we will make our ``Makefile`` more and more elaborate and add many
 features, but the call to ``make`` will mostly stay that simple. That's the
 beauty of it.
+
+If you run ``make``, it looks in the current directory for a file called
+``Makefile`` or ``makefile``. That's nice, so we don't have to specify
+explicitly which file should be used. If we *do* want to specify a different
+file, however, we can do so with the ``-f`` option, e.g.::
+
+  make -f MyOtherMakefile
+
+Cleaning Up
+-----------
+
+TODO: ``make clean``
+
+TODO: clean-target, no dependencies, one command
+
+TODO: $(RM) vs rm
+
+Adding Options
+--------------
+
+So using the built-in *implicit rules* is nice and easy, but what if we want to
+tweak some options?
+
+Well, that's no problem.
+Let's say we want to add some options for the compiler, e.g. let's enable some
+warnings. It's always a good idea to enable compiler warnings!
+We do this by simply adding a variable to our
+:download:`Makefile <warnings/Makefile>`:
+
+.. literalinclude:: warnings/Makefile
+
+When we now run ``make``, we see that the actual command becomes::
+
+  g++ -Wall -Wextra    hello.cpp   -o hello
+
+So it worked, our command line option was put where it belongs.
+
+There are a lot of pre-defined variables ...
+
+TODO: CXX, CXXFLAGS, CC, CFLAGS, CPPFLAGS, LDLIBS, LDFLAGS, ...
+
+Now we know how to add options to our ``Makefile`` permanently, but what if we
+want to try an option just once?
+
+No problem, we can specify the directly at the command line as environment
+variables. For example, if we want to try if our program can also be compiled
+with a different compiler, we can do this::
+
+  CXX=clang++ make
+
+...
+
+::
+
+  clang++ -Wall -Wextra    hello.cpp   -o hello
+
+Let's try something else. Let's run the optimizer on our little program::
+
+  CXXFLAGS=-O2 make
+
+::
+
+  g++ -Wall -Wextra    hello.cpp   -o hello
+  
+But why? What happened to our ``-O2`` setting?
+
+Unfortunately, it was overwritten in our ``Makefile``.
+If you want to allow specifying options in environment variables, you have to
+take care not to overwrite these variables.
+The easiest way to do this, is to use the ``+=`` operator in your
+:download:`Makefile <Makefile.cxxflags2>`:
+
+.. literalinclude:: Makefile.cxxflags2
+
+::
+
+  CXXFLAGS=-O2 make
+
+Et voilá::
+
+  g++ -O2 -Wall -Wextra    hello.cpp   -o hello
 
 TODO
 ----
@@ -87,5 +178,9 @@ TODO
   make -p
 
   make -j8
+
+  = vs := vs ?= vs +=
+
+* subdirs
 
 .. vim:textwidth=80
