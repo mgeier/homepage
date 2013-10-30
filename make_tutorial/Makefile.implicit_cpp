@@ -1,0 +1,2 @@
+%: %.cpp
+	$(LINK.cpp) $^ $(LOADLIBES) $(LDLIBS) -o $@

@@ -11,3 +11,8 @@ Getting Started with Sphinx and readthedocs.org
 - commit and push your files to Github (but without the HTML files!)
 - create a new project at readthedocs.org using your Github repo
 - go to Github admin section, then to `service hooks`, activate `ReadTheDocs`
+
+Links
+-----
+
+Code: http://sphinx-doc.org/markup/code.html
