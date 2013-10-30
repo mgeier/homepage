@@ -1,7 +1,14 @@
 .. highlight:: sh
 
+Make Tutorial
+=============
+
+This is, much like the internet itself, and democracy, work-in-progress.
+
+...
+
 ``make`` Without Makefile
-=========================
+-------------------------
 
 Whenever you encounter a directory with a file called ``Makefile`` in it, you
 know you can run ``make`` to automatically compile/generate/do whatever is
@@ -25,7 +32,7 @@ installed).
 .. note::
 
   You can ignore the details for now, but if you are curious, this is the exact
-  command that will be called by `make`::
+  command that will be called by ``make``::
 
     g++     hello.cpp   -o hello
 
@@ -69,5 +76,16 @@ can now simply call::
 From now on, we will make our ``Makefile`` more and more elaborate and add many
 features, but the call to ``make`` will mostly stay that simple. That's the
 beauty of it.
+
+TODO
+----
+
+...
+
+::
+
+  make -p
+
+  make -j8
 
 .. vim:textwidth=80
