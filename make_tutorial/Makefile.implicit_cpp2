@@ -1,0 +1,3 @@
+LINK.cc = $(CXX) $(CXXFLAGS) $(CPPFLAGS) $(LDFLAGS) $(TARGET_ARCH)
+
+LINK.cpp = $(LINK.cc)
