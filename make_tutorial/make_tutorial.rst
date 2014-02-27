@@ -212,8 +212,22 @@ TODO
 
   make -j8
 
-  = vs := vs ?= vs +=
+* = vs := vs ?= vs +=
 
 * subdirs
+
+* *order-only* prerequisites
+
+* .PHONY
+
+* .DELETE_ON_ERROR
+
+* .NOTPARALLEL
+
+* .SECONDARY
+
+* VPATH, vpath
+
+* $(BLABLA:%old=%new)
 
 .. vim:textwidth=80
