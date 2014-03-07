@@ -18,6 +18,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   reproducible_research
    make_tutorial/make_tutorial
    sphinx
 
