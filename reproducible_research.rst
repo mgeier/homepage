@@ -1,5 +1,3 @@
-.. |TODO| replace:: **TODO**
-
 Reproducible Research
 =====================
 
@@ -8,13 +6,13 @@ Reproducible Research
   This is, much like research itself, and the art of eating spaghetti without
   soiling yourself, work-in-progress.
 
-|TODO| Intro
+.. todo:: Intro
 
-|TODO| Reproducible Research, Reproducible Science, Reproducible Analysis, ...
+.. todo:: Reproducible Research, Reproducible Science, Reproducible Analysis, ...
 
-|TODO| http://en.wikipedia.org/wiki/Reproducibility
+.. todo:: http://en.wikipedia.org/wiki/Reproducibility
 
-|TODO| https://github.com/mgeier/python-audio
+.. todo:: https://github.com/mgeier/python-audio
 
 Software
 --------

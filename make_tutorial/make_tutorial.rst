@@ -2,7 +2,6 @@
 
 .. |make| replace:: ``make``
 .. |Makefile| replace:: :file:`Makefile`
-.. |TODO| replace:: **TODO**
 
 Make Tutorial
 =============
@@ -13,10 +12,9 @@ Make Tutorial
 
 ...
 
-|TODO| |make| runs other programs in the right order, handles intermediate files
-and generates files only if it's necessary (i.e. if the sources have changed).
+.. todo:: |make| runs other programs in the right order, handles intermediate files and generates files only if it's necessary (i.e. if the sources have changed).
 
-|TODO| Documentation for GNU make: http://www.gnu.org/software/make/
+.. todo:: Documentation for GNU make: http://www.gnu.org/software/make/
 
 |make| Without Makefile
 -----------------------
@@ -108,9 +106,10 @@ simply call::
 
 ... and it will do the same thing as before.
 
-|TODO| this can happen::
+.. todo::
+   this can happen::
 
-  make: `hello' is up to date.
+      make: `hello' is up to date.
 
 From now on, we will make our |Makefile| more and more elaborate and add many
 features, but the call to |make| will mostly stay that simple. That's the
@@ -126,11 +125,11 @@ file, however, we can do so with the ``-f`` option, e.g.::
 Cleaning Up
 -----------
 
-|TODO| ``make clean``
+.. todo:: ``make clean``
 
-|TODO| clean-target, no prerequisites, one recipe
+.. todo:: clean-target, no prerequisites, one recipe
 
-|TODO| $(RM) vs rm
+.. todo:: $(RM) vs rm
 
 Adding Options
 --------------
@@ -154,7 +153,7 @@ So it worked, our command line option was put where it belongs.
 
 There are a lot of pre-defined variables ...
 
-|TODO| CXX, CXXFLAGS, CC, CFLAGS, CPPFLAGS, LDLIBS, LDFLAGS, ...
+.. todo:: CXX, CXXFLAGS, CC, CFLAGS, CPPFLAGS, LDLIBS, LDFLAGS, ...
 
 Now we know how to add options to our |Makefile| permanently, but what if we
 want to try an option just once?
