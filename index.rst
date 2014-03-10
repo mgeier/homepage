@@ -8,5 +8,6 @@ This is some stuff I wrote:
 
    reproducible_research
    make_tutorial/make_tutorial
+   git
    sphinx
 
