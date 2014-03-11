@@ -57,6 +57,11 @@ ActivePapers
 Publications
 ------------
 
+Patrick Vandewalle, Jelena Kovačević, Martin Vetterli,
+`Reproducible Research in Signal Processing
+<http://dx.doi.org/10.1109/MSP.2009.932122>`_,
+IEEE Signal Processing Magazine Volume 26, Issue 3, 2009.
+
 Robert Gentleman, Duncan Temple Lang,
 `Statistical Analyses and Reproducible Research
 <http://dx.doi.org/10.1198/106186007X178663>`_,
@@ -65,7 +70,24 @@ Journal of Computational and Graphical Statistics Volume 16, Issue 1, 2007.
 Bruce G. Charlton,
 `Peer usage versus peer review
 <http://dx.doi.org/10.1136/bmj.39304.581574.94>`_,
-BMJ vol. 335 issue 7617, 2007.
+BMJ Volume 335, Issue 7617, 2007.
+
+Arturo Casadevall, Ferric C. Fang,
+`Reproducible Science <http://dx.doi.org/10.1128/IAI.00908-10>`_,
+Infection and Immunity Volume 78, Issue 12, 2010.
+
+Jonathan B. Buckheit, David L. Donoho,
+`WaveLab and Reproducible Research
+<http://dx.doi.org/10.1007/978-1-4612-2544-7_5>`_,
+in `Wavelets and Statistics <http://dx.doi.org/10.1007/978-1-4612-2544-7>`_,
+Springer, 1995.
+
+Darrel C. Ince, Leslie Hatton, John Graham-Cumming,
+`The Case for Open Computer Programs <http://dx.doi.org/10.1038/nature10836>`_,
+Nature Volume 482, 2012.
+
+Nature special `Challenges in Irreproducible Research
+<http://www.nature.com/nature/focus/reproducibility/>`_, 2010-2013
 
 Links
 -----
@@ -93,5 +115,8 @@ The Truth Wears Off: An odd twist in the scientific method
 
 Report reveals missteps in Duke cancer trial review
     http://blogs.nature.com/news/2011/01/report_reveals_missteps_in_ini.html
+
+Reproducible Research in Signal/Image Processing
+    http://reproducibleresearch.net/
 
 .. vim:textwidth=80
