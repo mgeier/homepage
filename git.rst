@@ -24,8 +24,8 @@ This will create a directory named like the repository (in this case
 
     cd homepage
 
-Check the Status
-----------------
+Checking the Status
+-------------------
 
 At any time, you can get the current status of your files with::
 
@@ -35,10 +35,23 @@ Here you will see if there are changes to any files of the repository and if
 there are local files which are not yet part of the repository (see below for
 how to add files).
 
+Getting Recent Changes from the Server
+--------------------------------------
+
+If the repository on the server changed since you cloned it, you can get up to
+date with::
+
+    git pull
+
+But be aware that if you made changes to your local files, this may lead to
+conflicts. It's a good idea to always commit before pulling (see below how to
+commit changes).
+
 Initial Setup
 -------------
 
-Before you make your first commit, you should set up a few things (you have to do this only once)::
+Before you make your first commit, you should set up a few things (you have to
+do this only once)::
 
     git config --global user.name "Your Name"
     git config --global user.email you@example.com
@@ -216,5 +229,10 @@ I probably should write about these, too:
 * creating branches and switching between them
 * pushing and pulling branches
 * adding remotes
+* merging
+* rebasing
+* interactive rebasing
+* cherry-picking
+* ``git stash``
 
 .. vim:textwidth=80
