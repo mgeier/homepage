@@ -10,4 +10,5 @@ This is some stuff I wrote:
    make_tutorial/make_tutorial
    git
    sphinx
+   todo
 
