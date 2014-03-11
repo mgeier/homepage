@@ -193,6 +193,12 @@ Git and Subversion (SVN)
 
 See http://git-scm.com/book/en/Git-and-Other-Systems-Git-and-Subversion
 
+Public Git Hosting Sites
+------------------------
+
+There are several free Git hosting services available, for an overview visit
+https://git.wiki.kernel.org/index.php/GitHosting
+
 More Documentation/Links
 ------------------------
 
