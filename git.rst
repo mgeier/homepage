@@ -85,10 +85,13 @@ Once you have done some changes, you can make a commit::
     git commit -a
 
 Here, your favorite text editor will be opened and you can (and *should*!) enter
-a commit message, describing the changes you have made. After you saved the
-file and closed the editor, the commit process will start.
+a commit message, describing the changes you have made. After you save the
+file and close the editor, the commit will actually be created.
 
-.. todo:: link about how to write good commit messages
+A commit message should have a short (no more than 50 characters) one-line
+summary in the first line, then a blank line and then a more detailed
+description. Have a look at this `note about commit messages
+<http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>`_.
 
 Remember, a commit is a local operation in Git, so nothing was transferred to
 the server yet.
