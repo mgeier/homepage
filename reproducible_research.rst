@@ -54,6 +54,60 @@ ActivePapers
         * active_papers_py (Python):
           https://bitbucket.org/khinsen/active_papers_py/wiki/Home
 
+Online Services
+---------------
+
+IPython Notebook Viewer
+    http://nbviewer.ipython.org/
+
+Github
+    http://github.com/
+
+Bitbucket (free unlimited accounts for academic users)
+    http://bitbucket.org/
+
+figshare
+    http://figshare.com/, `connecting Github and figshare <http://figshare.com/blog/Working_with_Github_and_Mozilla_to_enable_Code_as_a_Research_Output_/117>`_
+
+zenodo
+    http://zenodo.org/
+
+ORCID
+    http://orcid.org/
+
+crossref
+    http://crossref.org/
+
+DataCite
+    http://www.datacite.org/
+
+my experiment
+    http://www.myexperiment.org/
+
+re3data (Registry of Research Data Repositories)
+    http://www.re3data.org/
+
+RADAR - Research Data Repository
+    http://www.radar-projekt.org/display/RE/Home
+
+Open Science Framework
+    https://osf.io/
+
+DataUp
+    http://dataup.cdlib.org/
+
+Journals
+--------
+
+F1000Research (life sciences)
+    http://f1000research.com/
+
+Scientific Data - nature.com (launching in May 2014)
+    http://www.nature.com/scientificdata/
+
+DRYAD
+    http://datadryad.org/
+
 Publications
 ------------
 
@@ -118,5 +172,17 @@ Report reveals missteps in Duke cancer trial review
 
 Reproducible Research in Signal/Image Processing
     http://reproducibleresearch.net/
+
+European Commission: *Towards better access to scientific information*
+    http://www.eesc.europa.eu/?i=portal.en.int-opinions.24976 (`PDF <http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0401:FIN:EN:PDF>`_)
+
+Preserving Research: The top online archives for storing your unpublished findings
+    http://www.the-scientist.com/?articles.view/articleNo/36695/title/Preserving-Research/
+
+Offene Wissenschaft (de)
+    http://www.offene-wissenschaft.de/
+
+mozilla Science Lab
+    http://mozillascience.org/
 
 .. vim:textwidth=80
