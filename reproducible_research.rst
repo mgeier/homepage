@@ -185,4 +185,16 @@ Offene Wissenschaft (de)
 mozilla Science Lab
     http://mozillascience.org/
 
+Panton Principles
+    http://pantonprinciples.org/
+
+Guide to Open Data Licensing
+    http://opendefinition.org/guide/data/
+
+CC0
+    http://creativecommons.org/publicdomain/zero/1.0/
+
+Joint Declaration of Data Citation Principles
+    https://www.force11.org/node/4769
+
 .. vim:textwidth=80
