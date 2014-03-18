@@ -6,19 +6,118 @@ Reproducible Research
   This is, much like research itself, and the art of eating spaghetti without
   soiling yourself, work-in-progress.
 
-.. todo:: Intro
+This page is not as general as it should be.
+It is biased towards audio signal processing, audio engineering, spatial audio
+reproduction and auditory perception.
+However, many of the ideas presented here can be applied more widely.
 
 .. todo:: Reproducible Research, Reproducible Science, Reproducible Analysis, ...
+
+.. todo:: Reproducible Research vs. Non-Reproducible Research?
+
+.. todo:: reproducible vs. easily reproducible
+
+.. todo:: online material as supplement to traditional publications
 
 .. todo:: http://en.wikipedia.org/wiki/Reproducibility
 
 .. todo:: https://github.com/mgeier/python-audio
 
-Software
---------
+Guidelines
+----------
+
+Here are few guidelines which may (or may not) help to make your work more
+reproducible:
+
+make everthing public (and each step of it)
+  At some point, every aspect of your work should be publicly accessible.
+  And not only the parts which (you think) are most interesting ... every single
+  bit and every single step.
+  This way it will be easiest for others to reproduce your work.
+
+  You may not want to publish everything from the very beginning, which leads to
+  the next point ...
+
+release early
+  This is borrowed from the Open Source movement, but it's also applicable here.
+  Even if you feel it's not finished yet, just make it public! Because if you
+  wait too long, you'll probably never release it ...
+
+  If you release early, you also give others the chance to comment on your work
+  and to suggest improvements before you think it's "finished" (which may never
+  happen).
+
+make stuff public by default
+  In case of doubt, make it public! Keep things only for yourself if there is a
+  good reason. And even if there is a reason now, you should think about making
+  it public later (e.g. after publication of a related paper).
+
+think about others
+  Don't just think about how great your results are, also think about how you
+  can make it as easy as possible for others to reproduce them.
+
+use tools that others can use, too
+  If you have a choice, prefer tools that are available to other researchers,
+  too.
+
+  Of course, often expensive equipment is needed in research, and sometimes only
+  few laboratories have even the theoretical possibility to reproduce your
+  experiments. We have to live with that.
+
+  When it comes to software, there is often an alternative to expensive
+  programs, sometimes the free ones are even better.
+  Try to choose software that is accessible to most people, and try to use
+  software that runs on different operating systems.
+
+specify a license
+  If provide something to the public and don't specify a license, said public
+  may have a hard time using it legally.
+  With everything you publish, you should also tell people what they may and may
+  not do with it.
+
+  But remember: the more restrictions you impose, the more freedom you take away
+  from people who want to use your work.
+
+  Try these links to help you choose an appropriate license:
+
+  * http://creativecommons.org/choose/
+  * http://three.org/openart/license_chooser/
+
+  For more details, have a look there: https://tldrlegal.com/.
+
+bring research and teaching closer together
+  Every research starts from some existing knowledge.
+
+  .. todo:: more arguments
+
+  Today's students are tomorrow's researchers.
+
+What Should be Reproducible?
+----------------------------
+
+Short answer: everything!
+
+Featured Software
+-----------------
+
+...
+
+More Software
+-------------
 
 Scientific Python (SciPy)
     http://scipy.org/
+
+    This is a collection of many software projects:
+    `NumPy <http://www.numpy.org/>`_,
+    `SciPy <http://scipy.org/scipylib/>`_,
+    `matplotlib <http://matplotlib.org/>`_,
+    `IPython <http://ipython.org/>`_,
+    `SymPy <http://sympy.org/>`_,
+    `pandas <http://pandas.pydata.org/>`_,
+    `Mayavi <http://code.enthought.com/projects/mayavi/>`_,
+    `PyTables <http://www.pytables.org/>`_,
+    and many more ...
 
 R
     http://www.r-project.org/
