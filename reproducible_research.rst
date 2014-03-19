@@ -29,7 +29,7 @@ Guidelines
 Here are few guidelines which may (or may not) help to make your work more
 reproducible:
 
-make everthing public (and each step of it)
+make everything public (and each step of it)
   At some point, every aspect of your work should be publicly accessible.
   And not only the parts which (you think) are most interesting ... every single
   bit and every single step.
@@ -69,14 +69,22 @@ use tools that others can use, too
   Try to choose software that is accessible to most people, and try to use
   software that runs on different operating systems.
 
+use open source software
+
+  .. todo:: content
+
 specify a license
   If provide something to the public and don't specify a license, said public
-  may have a hard time using it legally.
+  may have a hard time using the thing legally.
   With everything you publish, you should also tell people what they may and may
   not do with it.
 
   But remember: the more restrictions you impose, the more freedom you take away
   from people who want to use your work.
+  You can waive all your rights (at least with regard to copyright law), you can
+  request attribution, you can demand that derived works must be published under
+  the same conditions as the original work (a.k.a. *share-alike*), you can
+  forbid commercial use, ...
 
   Try these links to help you choose an appropriate license:
 
@@ -97,13 +105,87 @@ What Should be Reproducible?
 
 Short answer: everything!
 
-Featured Software
------------------
+But let's be a bit more verbose.
+Ideally, the whole research process should be reproducible.
+The following list shows things that can (and should!) be made reproducible.
+There are also some tools mentioned that may help, see below for links to more
+software and libraries.
+
+All this is of course very much dependent on the research area. Some points may
+apply to your area, others won't.
+
+collecting ideas
+  Ideas are the core of any research activity. They are also one of the main
+  resources needed by researchers (besides funding). Understandably, many
+  researcher are reluctant to make their ideas public before they reap their
+  fruits themselves.
+
+  But at a later time, e.g. after a publication, there may not be a reason
+  anymore to keep the ideas a secret.
+  Also, some researchers (mostly the good ones) have more ideas than they could
+  possibly work on. In this case they should make their "vacant" ideas public
+  for other researchers to work on.
+
+  In the era of the world-wide-web there are countless possibilities to share
+  your ideas, no need to give any pointers here, you'll find something.
+
+symbolic derivations
+  In many areas, deriving equations is the daily drill of a researcher.
+  In traditional publications, however, only a limited amount of space can be
+  used for equations, so typically only a few steps of the derivation are shown
+  or even only the final resulting equation.
+
+  This can make it very time-consuming for other researchers to reproduce and
+  build on your results.
+  Ideally, for every published equation the complete and detailed derivation
+  should also be publicly available.
+
+  You can create nice equations using LaTeX documents, but also some blogging
+  systems support entering math equations. IPython also supports nice-looking
+  equations (using MathJax).
+
+  .. todo:: CASs
+
+numeric calculations, simulations, visualizations
+  .. todo:: NumPy, SciPy, matplotlib, Mayavi, ...
+
+cluster computing
+  .. todo:: IPython
+
+experimental apparatus
+  .. todo:: detailed description, drawings, photos, detailed list of devices ant
+     the used configuration, ...
+
+  .. todo:: software (ideally open source), scripts, configuration files, data
+     files, ...
+
+statistical evaluation
+  .. todo:: raw data, all scripts
+
+  .. todo:: pandas, R
+
+Software
+--------
 
 ...
 
-More Software
--------------
+Python
+^^^^^^
+
+.. note:: Why Python?
+
+   The chief reason is that it's just a beautiful programming language.
+   And it's versatile ... so the *two* reasons are its beauty and versatility
+   ... and its extensive standard library,
+   therefore the *three* reasons to use Python are its beauty, versatility and
+   extensive standard library ... and a sheer unimaginably humongous number of
+   third-party libraries and extensions.
+
+   Let's just say *amongst* the reasons to choose Python are such diverse
+   elements as beauty, versatility, extremely useful standard library and
+   tons of third-party stuff.
+
+   For more information, watch this: http://youtu.be/vt0Y39eMvpI
 
 Scientific Python (SciPy)
     http://scipy.org/
@@ -118,6 +200,27 @@ Scientific Python (SciPy)
     `Mayavi <http://code.enthought.com/projects/mayavi/>`_,
     `PyTables <http://www.pytables.org/>`_,
     and many more ...
+
+.. todo:: IPython notebook
+
+   connection to other tools via "magic" (R, Ruby, Octave, Julia, Matlab, ...)
+
+LaTeX
+^^^^^
+
+...
+
+.. todo:: TikZ, gnuplot, beamer
+
+Git
+^^^
+
+...
+
+More Software
+^^^^^^^^^^^^^
+
+There's always more ...
 
 R
     http://www.r-project.org/
@@ -278,6 +381,9 @@ European Commission: *Towards better access to scientific information*
 Preserving Research: The top online archives for storing your unpublished findings
     http://www.the-scientist.com/?articles.view/articleNo/36695/title/Preserving-Research/
 
+Post-Publication Peer Review Mainstreamed
+    http://www.the-scientist.com/?articles.view/articleNo/37969/title/Post-Publication-Peer-Review-Mainstreamed/
+
 Offene Wissenschaft (de)
     http://www.offene-wissenschaft.de/
 
@@ -296,4 +402,4 @@ CC0
 Joint Declaration of Data Citation Principles
     https://www.force11.org/node/4769
 
-.. vim:textwidth=80
+.. vim:textwidth=80:spell
