@@ -23,6 +23,30 @@ However, many of the ideas presented here can be applied more widely.
 
 .. todo:: https://github.com/mgeier/python-audio
 
+`Vandewalle et al. <http://dx.doi.org/10.1109/MSP.2009.932122>`_ distinguish six
+degrees of reproducibility:
+
+  5. The results can be easily reproduced by an independent researcher with at
+     most 15 min of user effort, requiring only standard, freely available tools
+     (C compiler, etc.).
+
+  4. The results can be easily reproduced by an independent researcher with at
+     most 15 minutes of user effort, requiring some proprietary source packages
+     (MATLAB, etc.).
+
+  3. The results can be reproduced by an independent researcher, requiring
+     considerable effort.
+
+  2. The results could be reproduced by an independent researcher, requiring
+     extreme effort.
+
+  1. The results cannot seem to be reproduced by an independent researcher.
+
+  0. The results cannot be reproduced by an independent researcher.
+
+While I don't agree with all details (especially the over-concrete time
+specifications and the overly vague effort metrics), I like the general idea.
+
 Guidelines
 ----------
 
@@ -146,7 +170,7 @@ symbolic derivations
 
   TODO: CASs
 
-numeric calculations, simulations, visualizations
+numeric calculations, simulations, visualizations, plots
   TODO: NumPy, SciPy, matplotlib, Mayavi, ...
 
 cluster computing
@@ -220,7 +244,7 @@ LaTeX
 Git
 ^^^
 
-...
+See :doc:`git`.
 
 More Software
 ^^^^^^^^^^^^^
@@ -406,5 +430,8 @@ CC0
 
 Joint Declaration of Data Citation Principles
     https://www.force11.org/node/4769
+
+Madagascar
+    http://reproducibility.org/
 
 .. vim:textwidth=80:spell
