@@ -71,7 +71,7 @@ use tools that others can use, too
 
 use open source software
 
-  .. todo:: content
+  TODO: content
 
 specify a license
   If provide something to the public and don't specify a license, said public
@@ -96,7 +96,7 @@ specify a license
 bring research and teaching closer together
   Every research starts from some existing knowledge.
 
-  .. todo:: more arguments
+  TODO: more arguments
 
   Today's students are tomorrow's researchers.
 
@@ -144,30 +144,35 @@ symbolic derivations
   systems support entering math equations. IPython also supports nice-looking
   equations (using MathJax).
 
-  .. todo:: CASs
+  TODO: CASs
 
 numeric calculations, simulations, visualizations
-  .. todo:: NumPy, SciPy, matplotlib, Mayavi, ...
+  TODO: NumPy, SciPy, matplotlib, Mayavi, ...
 
 cluster computing
-  .. todo:: IPython
+  TODO: IPython
+
+measurements
+  TODO: settings, logs, software, pre-/post-processing scripts
 
 experimental apparatus
-  .. todo:: detailed description, drawings, photos, detailed list of devices ant
+  TODO: detailed description, drawings, photos, detailed list of devices ant
      the used configuration, ...
 
-  .. todo:: software (ideally open source), scripts, configuration files, data
+  TODO: software (ideally open source), scripts, configuration files, data
      files, ...
 
 statistical evaluation
-  .. todo:: raw data, all scripts
+  TODO: raw data, all scripts
 
-  .. todo:: pandas, R
+  TODO: pandas, R
 
 Software
 --------
 
-...
+The following is a completely subjective selection of open-source software.
+This is not at all exhaustive, there are a lot of alternatives, both commercial
+and non-commercial.
 
 Python
 ^^^^^^
