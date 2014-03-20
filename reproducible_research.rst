@@ -21,8 +21,6 @@ However, many of the ideas presented here can be applied more widely.
 
 .. todo:: http://en.wikipedia.org/wiki/Reproducibility
 
-.. todo:: https://github.com/mgeier/python-audio
-
 `Vandewalle et al. <http://dx.doi.org/10.1109/MSP.2009.932122>`_ distinguish six
 degrees of reproducibility:
 
@@ -229,9 +227,8 @@ Scientific Python (SciPy)
     `PyTables <http://www.pytables.org/>`_,
     and many more ...
 
-.. todo:: IPython notebook
-
-   connection to other tools via "magic" (R, Ruby, Octave, Julia, ...)
+See also my `introduction to Python, NumPy, IPython, ...
+<https://github.com/mgeier/python-audio/blob/master/README.md>`_
 
 LaTeX
 ^^^^^
