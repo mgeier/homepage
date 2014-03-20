@@ -372,7 +372,12 @@ Darrel C. Ince, Leslie Hatton, John Graham-Cumming,
 Nature Volume 482, 2012.
 
 Nature special `Challenges in Irreproducible Research
-<http://www.nature.com/nature/focus/reproducibility/>`_, 2010-2013
+<http://www.nature.com/nature/focus/reproducibility/>`_, 2010-2013.
+
+Fernando Pérez, Brian E. Granger, John D. Hunter,
+`Python: An Ecosystem for Scientific Computing
+<http://dx.doi.org/10.1109/MCSE.2010.119>`_,
+Computing in Science Engineering, Volume 13, Issue 2, 2011.
 
 Links
 -----
