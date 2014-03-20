@@ -94,7 +94,6 @@ use tools that others can use, too
   software that runs on different operating systems.
 
 use open source software
-
   TODO: content
 
 specify a license
@@ -232,7 +231,7 @@ Scientific Python (SciPy)
 
 .. todo:: IPython notebook
 
-   connection to other tools via "magic" (R, Ruby, Octave, Julia, Matlab, ...)
+   connection to other tools via "magic" (R, Ruby, Octave, Julia, ...)
 
 LaTeX
 ^^^^^
@@ -257,6 +256,9 @@ R
 Julia
     http://julialang.org/
 
+Sage
+    http://sagemath.org/
+
 Publication Tools
 -----------------
 
@@ -264,7 +266,8 @@ IPython
     http://ipython.org/
 
 IJulia
-    https://github.com/JuliaLang/IJulia.jl
+    https://github.com/JuliaLang/IJulia.jl (`example notebook
+    <http://nbviewer.ipython.org/url/jdj.mit.edu/~stevenj/IJulia%20Preview.ipynb>`_)
 
 VisTrails
     http://www.vistrails.org/index.php/Main_Page
