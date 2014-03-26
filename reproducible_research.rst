@@ -439,4 +439,7 @@ Joint Declaration of Data Citation Principles
 Madagascar
     http://reproducibility.org/
 
+Reproducibility Initiative
+    http://reproducibilityinitiative.org/
+
 .. vim:textwidth=80:spell
