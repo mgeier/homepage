@@ -442,4 +442,7 @@ Madagascar
 Reproducibility Initiative
     http://reproducibilityinitiative.org/
 
+The Need for Openness in Data Journalism
+    http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb
+
 .. vim:textwidth=80:spell
