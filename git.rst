@@ -75,6 +75,20 @@ And, if you want, you can set a few aliases for your convenience::
 All these options are stored in :file:`~/.gitconfig` (or somewhere else
 depending on your operating system).
 
+Command Line Prompt
+-------------------
+
+When working with branches, it is crucial to know the currently active branch.
+To show the current branch in the command line prompt, put this at the end of
+your :file:`~/.bashrc` (or wherever else you store settings for your shell)::
+
+    # add git branch to prompt
+    GIT_PS1_SHOWDIRTYSTATE=1
+    PS1="${PS1%'\$ '}"'$(__git_ps1 " (%s)")'"\$ "
+
+You'll also see an asterisk, e.g. ``(master *)``, if your working directory is
+*dirty*, i.e. if you have local changes which are not yet committed.
+
 Committing Changes
 ------------------
 
