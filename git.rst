@@ -66,11 +66,11 @@ To enable colors in ``git log`` et al.::
 
 And, if you want, you can set a few aliases for your convenience::
 
+    git config --global alias.s "status --short"
+    git config --global alias.c "checkout"
+
     git config --global alias.lol "log --oneline --graph --decorate"
     git config --global alias.lola "log --oneline --graph --decorate --all"
-
-    git config --global alias.wdiff "diff --color-words"
-    git config --global alias.wshow "show --color-words"
 
 All these options are stored in :file:`~/.gitconfig` (or somewhere else
 depending on your operating system).
