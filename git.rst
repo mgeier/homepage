@@ -129,6 +129,60 @@ have to use this command the first time to set up the ``master`` branch::
 
 After that, ``git push`` will suffice.
 
+Creating and Switching Branches
+-------------------------------
+
+But you probably don't want to do that yet. You're probably not quite sure yet
+if your changes are OK and you would like to wait with pushing them to the
+``master`` branch. Probably you would like your colleagues to have a look at
+your changes first.
+
+That's where *branches* come into the picture.
+
+To see what branches you already have, type::
+
+    git branch
+
+You'll probably get something like this::
+
+    * master
+
+This means you have only one branch which is called ``master``. This is
+typically the default branch and most repositories have it but it is just a
+branch as any other branch.
+The asterisk marks the currently active branch.
+You should also see this in your prompt if you did what I suggested in `Command
+Line Prompt`_.
+
+You can switch between branches with ``git checkout``. But you don't have
+another branch to switch to ... so let's create one::
+
+    git checkout -b fix-typo
+
+The option ``-b`` combines creating a branch with directly switching to the
+newly created branch.
+
+Your local files didn't actually change by switching to the new branch because
+for now, the branches ``fix-typo`` and ``master`` are just two different names
+for the same thing.
+But if you now start committing changes, these commits will end up in the
+``fix-typo`` branch while the ``master`` branch will remain unchanged.
+
+Let's check our branch-related situation::
+
+    git branch
+
+Which produces something like this::
+
+    * fix-typo
+      master
+
+Now you can actually change something and then commit your changes::
+
+    git commit -a
+
+.. todo:: more about branches?
+
 Ignoring Local Files
 --------------------
 
@@ -242,7 +296,6 @@ TODO
 
 I probably should write about these, too:
 
-* creating branches and switching between them
 * pushing and pulling branches
 * adding remotes
 * merging
