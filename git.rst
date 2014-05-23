@@ -69,6 +69,9 @@ And, if you want, you can set a few aliases for your convenience::
     git config --global alias.lol "log --oneline --graph --decorate"
     git config --global alias.lola "log --oneline --graph --decorate --all"
 
+    git config --global alias.wdiff "diff --color-words"
+    git config --global alias.wshow "show --color-words"
+
 All these options are stored in :file:`~/.gitconfig` (or somewhere else
 depending on your operating system).
 
@@ -111,16 +114,6 @@ have to use this command the first time to set up the ``master`` branch::
     git push origin master
 
 After that, ``git push`` will suffice.
-
-More Aliases
-------------
-
-Git's command line options can get annoyingly long, especially for tasks which
-you use often. To drastically reduce you typing effort, you should define
-aliases for the commands you use most often. Here, a few examples::
-
-    git config --global alias.wdiff "diff --color-words"
-    git config --global alias.wshow "show --color-words"
 
 Ignoring Local Files
 --------------------
