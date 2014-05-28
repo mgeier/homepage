@@ -15,6 +15,8 @@ However, many of the ideas presented here can be applied more widely.
 
 .. todo:: Reproducible Research vs. Non-Reproducible Research?
 
+.. todo:: replication vs. reproducibility
+
 .. todo:: reproducible vs. easily reproducible
 
 .. todo:: online material as supplement to traditional publications
