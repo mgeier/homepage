@@ -229,4 +229,8 @@ TODO
 
 * $(BLABLA:%old=%new)
 
+* Target/pattern-specific variable values (incl ``override``):
+  http://www.gnu.org/software/make/manual/html_node/Target_002dspecific.html
+  http://www.gnu.org/software/make/manual/html_node/Pattern_002dspecific.html
+
 .. vim:textwidth=80
