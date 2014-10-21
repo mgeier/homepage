@@ -329,6 +329,9 @@ Open Science Framework
 DataUp
     http://dataup.cdlib.org/
 
+Authorea
+    https://authorea.com/
+
 Journals
 --------
 
@@ -446,5 +449,11 @@ Reproducibility Initiative
 
 The Need for Openness in Data Journalism
     http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb
+
+Guidelines for Open Educational Resources (OER) in Higher Education
+    http://www.col.org/PublicationDocuments/Guidelines_OER_HE.pdf
+
+10 Simple Rules for the Care and Feeding of Scientific Data
+    https://authorea.com/users/3/articles/3410/_show_article
 
 .. vim:textwidth=80:spell
