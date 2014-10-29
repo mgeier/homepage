@@ -46,6 +46,8 @@ Installer
 
 https://python-packaging-user-guide.readthedocs.org/en/latest/index.html
 
+https://caremad.io/blog/setup-vs-requirement/
+
 License
 -------
 
