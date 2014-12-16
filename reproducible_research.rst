@@ -456,4 +456,7 @@ Guidelines for Open Educational Resources (OER) in Higher Education
 10 Simple Rules for the Care and Feeding of Scientific Data
     https://authorea.com/users/3/articles/3410/_show_article
 
+Scientific Python Lectures:
+    https://github.com/jrjohansson/scientific-python-lectures
+
 .. vim:textwidth=80:spell
