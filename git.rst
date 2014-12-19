@@ -72,8 +72,19 @@ And, if you want, you can set a few aliases for your convenience::
     git config --global alias.lol "log --oneline --graph --decorate"
     git config --global alias.lola "log --oneline --graph --decorate --all"
 
+With these aliases, you can use ``git s`` to get a short status display (one
+line per file) and you can use ``git c mybranch`` instead of the significantly
+longer ``git checkout mybranch``.
+I find myself using *checkout* very often, so ``git c`` saves a lot of typing.
+
+If you type ``git lola``, you'll see a nice and colorful ASCII display of the
+previous commits and their tree structure.
+
 All these options are stored in :file:`~/.gitconfig` (or somewhere else
 depending on your operating system).
+You can also store settings on a per-project basis. Just drop the ``--global``
+option and the settings will be stored for your current Git repository in
+``.git/config``.
 
 Command Line Prompt
 -------------------
@@ -182,6 +193,42 @@ Now you can actually change something and then commit your changes::
     git commit -a
 
 .. todo:: more about branches?
+
+More Aliases
+------------
+
+Once you've worked some time with Git, you will realize that there are a few
+commands that you use very often.  It's easy to create aliases that make you
+type less.
+
+I, for example, often use ``git rebase`` and afterwards I want to ensure that a
+*fast forward* merge is done (instead of a separate *merge commit*).
+Therefore, I have to type ``git merge mybranch --ff-only``, which is quite long
+and tedious to type.  With the following alias, I can reduce this to
+``git ff mybranch``::
+
+    git config --global alias.ff "merge --ff-only"
+
+Sometimes, after a ``git fetch`` or ``git remote update``, I want to
+fast-forward my local branch to its newly fetched remote branch.
+With my previous alias, I could do ``git ff origin/mybranch``.  This is still
+too long, and Git should be able to automatically figure out which is the
+correct remote branch.  With the following alias, the command is reduced to
+``git ffu``::
+
+    git config --global alias.ffu "merge --ff-only @{upstream}"
+
+I seldom use ``git pull``, because if there are new commits on both upstream and
+locally, a *merge commit* will be created automatically. And I don't like that.
+To avoid a merge commit and to only actually merge if a merge commit can be
+avoided (i.e. if a *fast forward* merge is possible), we can again use the
+option ``--ff-only``.  With the following alias, I only have to type
+``git pff``::
+
+    git config --global alias.pff "pull --ff-only --prune"
+
+The additional ``--prune`` option is very handy because it removes the remote
+branches which were deleted on the server (which is not done automatically).
 
 Ignoring Local Files
 --------------------
@@ -304,4 +351,4 @@ I probably should write about these, too:
 * cherry-picking
 * ``git stash``
 
-.. vim:textwidth=80
+.. vim:textwidth=80:spell:spelllang=en
