@@ -323,6 +323,7 @@ There are many different strategies and methodologies how to use Git, just have 
 
 * http://nvie.com/posts/a-successful-git-branching-model/
 * http://betterexplained.com/articles/aha-moments-when-learning-git/
+* http://sethrobertson.github.io/GitBestPractices/
 * ...
 
 There are also some nice videos:
