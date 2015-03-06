@@ -233,7 +233,8 @@ branches which were deleted on the server (which is not done automatically).
 Ignoring Local Files
 --------------------
 
-.. todo:: :file:`.gitignore`
+.. todo:: :file:`.gitignore`, global ignore file with ``core.excludesfile``,
+   reference to https://github.com/github/gitignore
 
 Attributes
 ----------
