@@ -23,6 +23,8 @@ However, many of the ideas presented here can be applied more widely.
 
 .. todo:: http://en.wikipedia.org/wiki/Reproducibility
 
+.. todo:: http://en.wikipedia.org/wiki/Open_research
+
 `Vandewalle et al. <http://dx.doi.org/10.1109/MSP.2009.932122>`_ distinguish six
 degrees of reproducibility:
 
