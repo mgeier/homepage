@@ -7,6 +7,7 @@ This is some stuff I wrote:
    :maxdepth: 2
 
    reproducible_research
+   licensing
    python
    make_tutorial/make_tutorial
    git
