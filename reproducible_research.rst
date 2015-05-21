@@ -232,7 +232,7 @@ Scientific Python (SciPy)
     and many more ...
 
 See also my `introduction to Python, NumPy, IPython, ...
-<https://github.com/mgeier/python-audio/blob/master/README.md>`_
+<http://nbviewer.ipython.org/github/mgeier/python-audio/blob/master/index.ipynb>`_
 
 LaTeX
 ^^^^^
@@ -460,5 +460,8 @@ Guidelines for Open Educational Resources (OER) in Higher Education
 
 Scientific Python Lectures:
     https://github.com/jrjohansson/scientific-python-lectures
+
+Research Objects
+    http://en.wikipedia.org/wiki/Research_Objects
 
 .. vim:textwidth=80:spell
