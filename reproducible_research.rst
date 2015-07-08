@@ -464,4 +464,7 @@ Scientific Python Lectures:
 Research Objects
     http://en.wikipedia.org/wiki/Research_Objects
 
+An efficient workflow for reproducible science (SciPy 2013)
+    https://youtu.be/Y-XFNg0QS14
+
 .. vim:textwidth=80:spell
