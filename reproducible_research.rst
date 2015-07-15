@@ -467,4 +467,7 @@ Research Objects
 An efficient workflow for reproducible science (SciPy 2013)
     https://youtu.be/Y-XFNg0QS14
 
+Open Glossary
+    http://blogs.egu.eu/network/palaeoblog/files/2015/02/OpenGlossary1.pdf
+
 .. vim:textwidth=80:spell
