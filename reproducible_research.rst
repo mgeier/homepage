@@ -386,6 +386,10 @@ Fernando Pérez, Brian E. Granger, John D. Hunter,
 <http://dx.doi.org/10.1109/MCSE.2010.119>`_,
 Computing in Science Engineering, Volume 13, Issue 2, 2011.
 
+Peter Suber,
+`Open Access <https://mitpress.mit.edu/index.php?q=books/open-access>`_,
+MIT Press, 2012.
+
 Links
 -----
 
