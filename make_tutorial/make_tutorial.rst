@@ -16,6 +16,17 @@ Make Tutorial
 
 .. todo:: Documentation for GNU make: http://www.gnu.org/software/make/
 
+.. note:: Do not use |make| for running *LaTeX*!
+
+   It may be a reasonably usable tool for this and many people use and
+   recommend it, e.g.
+
+   * http://robjhyndman.com/hyndsight/makefiles/
+   * http://kbroman.org/minimal_make/
+   * http://sidenote.hu/2012/02/04/makefile-for-large-latex-projects/
+
+   But there is a *much* superior tool for that, see :doc:`../latexmk`!
+
 |make| Without Makefile
 -----------------------
 
