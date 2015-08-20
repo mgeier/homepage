@@ -10,6 +10,7 @@ This is some stuff I wrote:
    licensing
    python
    make_tutorial/make_tutorial
+   latexmk
    git
    sphinx
    todo
