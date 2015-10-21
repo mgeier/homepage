@@ -8,6 +8,7 @@ This is some stuff I wrote:
 
    reproducible_research
    licensing
+   free_audio_data
    python
    make_tutorial/make_tutorial
    latexmk
