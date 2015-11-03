@@ -15,3 +15,21 @@ archive.org
 
 MUSOPEN
    https://musopen.org/
+
+Free Music Archive
+   http://freemusicarchive.org/
+
+Jamendo Music
+   http://www.jamendo.com/search/
+
+CC mixter
+   http://ccmixter.org/
+
+CC search
+   http://search.creativecommons.org/
+
+Let's CC
+   http://eng.letscc.net/
+
+SoundCloud
+   https://soundcloud.com/search/sounds
