@@ -390,6 +390,14 @@ Peter Suber,
 `Open Access <https://mitpress.mit.edu/index.php?q=books/open-access>`_,
 MIT Press, 2012.
 
+John P. A. Ioannidis,
+`Why Most Published Research Findings Are False
+<http://dx.doi.org/10.1371/journal.pmed.0020124>`_,
+PLoS Med 2(8): e124. doi:10.1371/journal.pmed.0020124, 2005.
+
+Detailed comment to the above (as Jupyter notebook):
+http://perrin.dynevor.org/ioannidis_2005.html
+
 Links
 -----
 
