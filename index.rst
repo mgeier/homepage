@@ -1,7 +1,7 @@
 Welcome!
 ========
 
-This is some stuff I wrote:
+This is some stuff I wrote/collected:
 
 .. toctree::
    :maxdepth: 2
@@ -14,5 +14,5 @@ This is some stuff I wrote:
    latexmk
    git
    sphinx
+   quotes
    todo
-
