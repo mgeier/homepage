@@ -482,4 +482,8 @@ An efficient workflow for reproducible science (SciPy 2013)
 Open Glossary
     http://blogs.egu.eu/network/palaeoblog/files/2015/02/OpenGlossary1.pdf
 
+Open Access: Berlin Declaration
+    http://openaccess.mpg.de/Berlin-Declaration,
+    `Wikipedia article <https://en.wikipedia.org/wiki/Berlin_Declaration_on_Open_Access_to_Knowledge_in_the_Sciences_and_Humanities>`__
+
 .. vim:textwidth=80:spell
