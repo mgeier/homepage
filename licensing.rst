@@ -48,5 +48,8 @@ Open Data Commons
 
    Open Data Commons Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/
 
+Guide to Open Data Licensing
+   http://opendefinition.org/guide/data/
+
 Publisher's Guide to Open Data Licensing
    http://theodi.org/guides/publishers-guide-open-data-licensing
