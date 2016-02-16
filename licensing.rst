@@ -33,6 +33,9 @@ Free Cultural Works
 
    https://creativecommons.org/freeworks/
 
+The Open Definition
+   http://opendefinition.org/
+
 ShareAlike
    compatible licenses: https://creativecommons.org/compatiblelicenses/
 
@@ -40,6 +43,9 @@ NonCommercial
    Consequences, Risks, and side-effects of the license module Non-Commercial -- NC http://blog.okfn.org/2013/01/08/consequences-risks-and-side-effects-of-the-license-module-non-commercial-use-only-2/
 
    http://openglam.org/files/2013/01/iRights_CC-NC_Guide_English.pdf
+
+CC and Data
+   https://wiki.creativecommons.org/wiki/Data
 
 Open Data Commons
    Open Data Commons Public Domain Dedication and License (PDDL) http://opendatacommons.org/licenses/pddl/
