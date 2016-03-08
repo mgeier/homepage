@@ -398,6 +398,17 @@ PLoS Med 2(8): e124. doi:10.1371/journal.pmed.0020124, 2005.
 Detailed comment to the above (as Jupyter notebook):
 http://perrin.dynevor.org/ioannidis_2005.html
 
+Chris Drummond,
+`Replicability is not Reproducibility: Nor is it Good Science
+<http://cogprints.org/7691/>`__,
+Proc. of the Evaluation Methods for Machine
+Learning Workshop at the 26th ICML, 2009.
+
+Ian P. Gent,
+`The Recomputation Manifesto
+<http://arxiv.org/abs/1304.3674v1>`__,
+Unpublished position paper, Version 1.9479, 2013.
+
 Links
 -----
 
@@ -485,5 +496,8 @@ Open Glossary
 Open Access: Berlin Declaration
     http://openaccess.mpg.de/Berlin-Declaration,
     `Wikipedia article <https://en.wikipedia.org/wiki/Berlin_Declaration_on_Open_Access_to_Knowledge_in_the_Sciences_and_Humanities>`__
+
+recomputation.org
+    http://recomputation.org/
 
 .. vim:textwidth=80:spell
