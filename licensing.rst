@@ -59,3 +59,6 @@ Guide to Open Data Licensing
 
 Publisher's Guide to Open Data Licensing
    http://theodi.org/guides/publishers-guide-open-data-licensing
+
+Software Licenses in Plain English
+   https://tldrlegal.com/
