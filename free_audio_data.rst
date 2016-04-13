@@ -39,3 +39,6 @@ The Audio Commons Initiative
 
 Public Domain Project
    http://publicdomainproject.org/
+
+Europeana Music
+   http://www.europeana.eu/portal/collections/music
