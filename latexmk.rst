@@ -35,7 +35,9 @@ On Linux:
 
 On OSX:
 
-   * ???
+   * `tlmgr install latexmk`
+   * tlmgr is the Tex Live package manager.
+   * You'll probably need to use `sudo tlmgr install latexmk` on OSX
 
 Running Latexmk
 ---------------
