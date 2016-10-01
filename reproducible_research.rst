@@ -295,6 +295,9 @@ Online Services
 IPython Notebook Viewer
     http://nbviewer.ipython.org/
 
+Binder (Turn a GitHub repo into a collection of interactive notebooks)
+    http://mybinder.org/
+
 Github
     http://github.com/
 
@@ -345,6 +348,9 @@ Scientific Data - nature.com (launching in May 2014)
 
 DRYAD
     http://datadryad.org/
+
+The ReScience Journal
+    http://rescience.github.io/
 
 Publications
 ------------
@@ -499,5 +505,15 @@ Open Access: Berlin Declaration
 
 recomputation.org
     http://recomputation.org/
+
+Reproducibility in Code and Science
+    http://justingosses.com/reproducibility/
+
+The 7 biggest problems facing science, according to 270 scientists
+    http://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process
+
+Journal of Articles in Support of the Null Hypothesis
+    http://www.jasnh.com/
+
 
 .. vim:textwidth=80:spell
