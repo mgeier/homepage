@@ -11,7 +11,74 @@ It is biased towards audio signal processing, audio engineering, spatial audio
 reproduction and auditory perception.
 However, many of the ideas presented here can be applied more widely.
 
-.. todo:: Reproducible Research, Reproducible Science, Reproducible Analysis, ...
+Definitions
+-----------
+
+Definition by `Wikipedia <https://en.wikipedia.org/wiki/Open_science>`__:
+
+  **Open science** is the movement to make scientific research, data and
+  dissemination accessible to all levels of an inquiring society, amateur or
+  professional. It encompasses practices such as publishing open research,
+  campaigning for open access, encouraging scientists to practice open notebook
+  science, and generally making it easier to publish and communicate scientific
+  knowledge.  [...]
+  In modern times there is debate about the extent to which scientific
+  information should be shared. The conflict is between the desire of
+  scientists to have access to shared resources versus the desire of individual
+  entities to profit when other entities partake of their resources.
+
+Definition by `Wikipedia <https://en.wikipedia.org/wiki/Open_research>`__:
+
+  **Open research** is research conducted in the spirit of free and open source
+  software. Much like open source schemes that are built around a source code
+  that is made public, the central theme of open research is to make clear
+  accounts of the methodology freely available via the internet, along with any
+  data or results extracted or derived from them. This permits a massively
+  distributed collaboration, and one in which anyone may participate at any
+  level of the project.
+
+  Especially if the research is scientific in nature, it is frequently referred
+  to as *open science*. Open research can also include social sciences, the
+  humanities, mathematics, engineering and medicine.
+
+Definition by `Wikipedia <https://en.wikipedia.org/wiki/Open_data>`__:
+
+  **Open data** is the idea that some data should be freely available to
+  everyone to use and republish as they wish, without restrictions from
+  copyright, patents or other mechanisms of control.  The goals of the open data
+  movement are similar to those of other "open" movements such as open source,
+  open hardware, open content, and open access.
+
+Definition by `Wikipedia <https://en.wikipedia.org/wiki/Open_science_data>`__:
+
+  **Open science data** is a type of open data focused on publishing
+  observations and results of scientific activities available for anyone to
+  analyze and reuse.
+
+Definition by `Wikipedia <https://en.wikipedia.org/wiki/Open_notebook_science>`__:
+
+  **Open notebook science** is the practice of making the entire primary record
+  of a research project publicly available online as it is recorded. This
+  involves placing the personal, or laboratory, notebook of the researcher
+  online along with all raw and processed data, and any associated material, as
+  this material is generated. The approach may be summed up by the slogan 'no
+  insider information'. It is the logical extreme of transparent approaches to
+  research and explicitly includes the making available of failed, less
+  significant, and otherwise unpublished experiments; so called 'dark data'.
+
+Definition by `Wikipedia <https://en.wikipedia.org/wiki/Open_access>`__:
+
+  **Open access** (**OA**) refers to online research outputs that are free of
+  all restrictions on access (e.g. access tolls) and free of many restrictions
+  on use (e.g. certain copyright and license restrictions). Open access can be
+  applied to all forms of published research output, including peer-reviewed
+  and non peer-reviewed academic journal articles, conference papers, theses,
+  book chapters, and monographs.
+
+  Two degrees of open access can be distinguished: gratis open access, which is
+  online access free of charge, and libre open access, which is online access
+  free of charge plus various additional usage rights.
+
 
 .. todo:: Reproducible Research vs. Non-Reproducible Research?
 
@@ -191,6 +258,16 @@ statistical evaluation
   TODO: raw data, all scripts
 
   TODO: pandas, R
+
+Criticism
+---------
+
+Three points from
+https://en.wikipedia.org/wiki/Open_notebook_science#Drawbacks:
+
+#. data theft
+#. not patentable once published
+#. data deluge
 
 Software
 --------
@@ -396,6 +473,10 @@ Peter Suber,
 `Open Access <https://mitpress.mit.edu/index.php?q=books/open-access>`_,
 MIT Press, 2012.
 
+Peter Suber,
+`Gratis and libre open access <https://dash.harvard.edu/bitstream/handle/1/4322580/suber_oagratis.html>`__,
+SPARC Open Access Newsletter, issue #124, 2008.
+
 John P. A. Ioannidis,
 `Why Most Published Research Findings Are False
 <http://dx.doi.org/10.1371/journal.pmed.0020124>`_,
@@ -414,6 +495,10 @@ Ian P. Gent,
 `The Recomputation Manifesto
 <http://arxiv.org/abs/1304.3674v1>`__,
 Unpublished position paper, Version 1.9479, 2013.
+
+Michael Woelfle, Piero Olliaro, Matthew H. Todd,
+`Open science is a research accelerator <http://dx.doi.org/10.1038/nchem.1149>`__,
+Nature Chemistry, Volume 3, Issue 10, 2011.
 
 Links
 -----
@@ -462,6 +547,9 @@ mozilla Science Lab
 
 Panton Principles
     http://pantonprinciples.org/
+
+The Open Definition
+    http://opendefinition.org/
 
 Guide to Open Data Licensing
     http://opendefinition.org/guide/data/
@@ -514,6 +602,9 @@ The 7 biggest problems facing science, according to 270 scientists
 
 Journal of Articles in Support of the Null Hypothesis
     http://www.jasnh.com/
+
+The Transparency and Openness Promotion Guidelines
+    https://cos.io/top/
 
 
 .. vim:textwidth=80:spell
