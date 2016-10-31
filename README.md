@@ -1,4 +1,4 @@
-Files for my "homepage" on rtfd.org
-===================================
+Files for my "homepage" on rtfd.io
+==================================
 
-Have a look there: http://mg.rtfd.org/
+Have a look there: http://mg.rtfd.io/
