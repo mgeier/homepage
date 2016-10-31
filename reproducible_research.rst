@@ -82,8 +82,6 @@ Definition by `Wikipedia <https://en.wikipedia.org/wiki/Open_access>`__:
 
 .. todo:: Reproducible Research vs. Non-Reproducible Research?
 
-.. todo:: replication vs. reproducibility
-
 .. todo:: reproducible vs. easily reproducible
 
 .. todo:: online material as supplement to traditional publications
@@ -115,6 +113,51 @@ degrees of reproducibility:
 
 While I don't agree with all details (especially the over-concrete time
 specifications and the overly vague effort metrics), I like the general idea.
+
+Replicability vs. Reproducibility
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Wikipedia <https://en.wikipedia.org/wiki/Reproducibility>`__ thinks that's the
+same:
+
+  **Reproducibility** is the ability of an entire experiment or study to be
+  duplicated, either by the same researcher or by someone else working
+  independently. Reproducing an experiment is called **replicating** it.
+  Reproducibility is one of the main principles of the scientific method.
+
+`Chris Drummond <http://cogprints.org/7691/>`__ claims they are different:
+
+  Reproducibility requires changes; replicability avoids them. Although
+  reproducibility is desirable, I contend that the impoverished version,
+  replicability, is one not worth having.
+
+`Roger D. Peng <http://biostatistics.oxfordjournals.org/content/10/3/405.full>`__
+also claims that they are different, but uses slightly different definitions:
+
+  The replication of scientific findings using independent investigators,
+  methods, data, equipment, and protocols has long been, and will continue to
+  be, the standard by which scientific claims are evaluated. However, in many
+  fields of study there are examples of scientific investigations that cannot be
+  fully replicated because of a lack of time or resources. In such a situation,
+  there is a need for a minimum standard that can fill the void between full
+  replication and nothing. One candidate for this minimum standard is
+  “reproducible research”, which requires that data sets and computer code be
+  made available to others for verifying published results and conducting
+  alternative analyses.
+
+`Victoria Stodden <http://magazine.amstat.org/blog/2011/07/01/trust-your-science/>`__
+defines them slightly differently (and throws in a third concept --
+"repeatability"):
+
+  We can reserve the term "replicability" for the regeneration of published
+  results from author-provided code and data. [...] Reproducibility is a more
+  general term, implying both replication and the regeneration of findings with
+  at least some independence from the code and/or data associated with the
+  original publication. Both refer to the analysis that occurs after
+  publication. A third term, "repeatability," is sometimes used in place of
+  reproducibility, but this is more typically used as a term of art referring to
+  the sensitivity of results when underlying measurements are retaken.
+
 
 Guidelines
 ----------
