@@ -117,7 +117,9 @@ specifications and the overly vague effort metrics), I like the general idea.
 Replicability vs. Reproducibility
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Wikipedia <https://en.wikipedia.org/wiki/Reproducibility>`__ thinks that's the
+Great overview: `Language Log: Replicability vs. reproducibility — or is it the other way around? <http://languagelog.ldc.upenn.edu/nll/?p=21956>`__
+
+`Wikipedia <https://en.wikipedia.org/wiki/Reproducibility>`__ thinks it's the
 same:
 
   **Reproducibility** is the ability of an entire experiment or study to be
