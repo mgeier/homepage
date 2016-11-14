@@ -229,6 +229,8 @@ specify a license
   * http://three.org/openart/license_chooser/
 
   For more details, have a look there: https://tldrlegal.com/.
+  
+  Licensing your research, webinar with Brandon Butler: https://osf.io/6uupa/
 
 bring research and teaching closer together
   Every research starts from some existing knowledge.
