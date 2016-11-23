@@ -547,6 +547,10 @@ Michael Woelfle, Piero Olliaro, Matthew H. Todd,
 `Open science is a research accelerator <http://dx.doi.org/10.1038/nchem.1149>`__,
 Nature Chemistry, Volume 3, Issue 10, 2011.
 
+Radovan Vrana,
+`Open science, open access and open educational resources: Challenges and opportunities <http://dx.doi.org/10.1109/MIPRO.2015.7160399>`__,
+International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2015.
+
 Links
 -----
 
