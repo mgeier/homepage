@@ -14,6 +14,13 @@ However, many of the ideas presented here can be applied more widely.
 Definitions
 -----------
 
+Openness
+^^^^^^^^
+
+.. todo:: The open definition
+
+  http://opendefinition.org/
+
 Definition by `Wikipedia <https://en.wikipedia.org/wiki/Open_science>`__:
 
   **Open science** is the movement to make scientific research, data and
@@ -529,8 +536,8 @@ John P. A. Ioannidis,
 <http://dx.doi.org/10.1371/journal.pmed.0020124>`_,
 PLoS Med 2(8): e124. doi:10.1371/journal.pmed.0020124, 2005.
 
-Detailed comment to the above (as Jupyter notebook):
-http://perrin.dynevor.org/ioannidis_2005.html
+Detailed comment to the above:
+http://matthew-brett.github.io/teaching/ioannidis_2005.html
 
 Chris Drummond,
 `Replicability is not Reproducibility: Nor is it Good Science
@@ -550,6 +557,15 @@ Nature Chemistry, Volume 3, Issue 10, 2011.
 Radovan Vrana,
 `Open science, open access and open educational resources: Challenges and opportunities <http://dx.doi.org/10.1109/MIPRO.2015.7160399>`__,
 International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2015.
+
+Yale Law School Roundtable on Data and Code Sharing,
+`Reproducible Research: Addressing the Need for Data and Code Sharing in Computational Science <http://dx.doi.org/10.1109/MCSE.2010.113>`__,
+Computing in Science & Engineering, Volume 12, Issue 5, 2010.
+
+Toronto International Data Release Workshop Authors,
+`Prepublication Data Sharing <http://dx.doi.org/10.1038/461168a>`__,
+Nature 461, no. 7261, 2009.
+
 
 Links
 -----
