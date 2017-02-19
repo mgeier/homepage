@@ -673,5 +673,17 @@ Journal of Articles in Support of the Null Hypothesis
 The Transparency and Openness Promotion Guidelines
     https://cos.io/top/
 
+épisciences
+    http://episciences.org/
+
+The open archive HAL
+    https://hal.archives-ouvertes.fr/
+
+arXiv.org
+    https://arxiv.org/
+
+Directory of Open Access Journals (DOAJ)
+    https://doaj.org/
+
 
 .. vim:textwidth=80:spell
