@@ -468,6 +468,12 @@ DataUp
 Authorea
     https://authorea.com/
 
+PubPeer (post publication peer review)
+    https://pubpeer.com/
+
+PubMed Commons (post publication peer review)
+    https://www.ncbi.nlm.nih.gov/pubmedcommons/
+
 Journals
 --------
 
@@ -566,6 +572,14 @@ Toronto International Data Release Workshop Authors,
 `Prepublication Data Sharing <http://dx.doi.org/10.1038/461168a>`__,
 Nature 461, no. 7261, 2009.
 
+Rinze Benedictus, Frank Miedema, and Mark W. J. Ferguson,
+`Fewer Numbers, Better Science <http://dx.doi.org/10.1038/538453a>`__,
+Nature News, Volume 538, Issue 7626, 2016.
+
+J. Wilsdon et al.,
+`The Metric Tide: Report of the Independent Review of the Role of 
+Metrics in Research Assessment and Management <http://dx.doi.org/10.13140/RG.2.1.4929.1363>`__,
+2015.
 
 Links
 -----
@@ -685,5 +699,13 @@ arXiv.org
 Directory of Open Access Journals (DOAJ)
     https://doaj.org/
 
+Amsterdam Call for Action on Open Science
+    https://english.eu2016.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science
+
+Reproducibility and reliability of biomedical research
+    https://acmedsci.ac.uk/policy/policy-projects/reproducibility-and-reliability-of-biomedical-research/
+
+Rigor and Reproducibility (NIH guidelines)
+    https://grants.nih.gov/reproducibility/index.htm
 
 .. vim:textwidth=80:spell
