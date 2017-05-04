@@ -7,37 +7,41 @@ to run external programs in-between.
 
 To avoid all this hassle, you should simply use Latexmk_!
 
-.. _Latexmk: http://www.phys.psu.edu/~collins/software/latexmk-jcc/
-.. _Perl: http://www.perl.org/
-.. _MikTeX: http://miktex.org/
-
 Latexmk_ is a Perl_ script which you just have to run once and it does
 everything else for you ... completely automagically.
 
 And the nice thing is: you probably have it already installed on your computer,
-because it is part of MikTeX_ and it is bundled with many Linux Distributions.
+because it is part of MacTeX_ and MikTeX_ and it is bundled with many Linux
+Distributions.
+
+.. _Latexmk: http://www.phys.psu.edu/~collins/software/latexmk-jcc/
+.. _Perl: http://www.perl.org/
+.. _MacTeX: http://www.tug.org/mactex/
+.. _MikTeX: http://miktex.org/
 
 Installation
 ------------
 
-On *M$ Windows* with MikTeX_:
+On *Linux*:
+
+   * Perl_ should be already installed.
+   * You may have to install a package called ``latexmk`` or similar.
+
+On *macOS* with MacTeX_:
+
+   * It's probably already installed.
+   * If not, open "TeX Live Utility", search for "latexmk" and install it.
+   * If you prefer using the Terminal::
+
+        sudo tlmgr install latexmk
+
+On *Windows* with MikTeX_:
 
    * You probably have to install Perl_,
      e.g. from here: http://strawberryperl.com/.
 
    * If it's not installed already, open the MikTeX Package Manager and install
      the ``latexmk`` package.
-
-On Linux:
-
-   * Perl_ is should be already installed.
-   * You may have to install a package called ``latexmk`` or similar.
-
-On OSX:
-
-   * `tlmgr install latexmk`
-   * tlmgr is the Tex Live package manager.
-   * You'll probably need to use `sudo tlmgr install latexmk` on OSX
 
 Running Latexmk
 ---------------
@@ -52,7 +56,7 @@ In the simplest case you just have to type ::
    latexmk
 
 This runs LaTeX on all ``.tex`` files in the current directory using the output
-format specified by the config files.
+format specified by the `configuration files`_.
 
 If you want to make sure to get a ``.pdf`` file as output, just mention it::
 
@@ -108,7 +112,7 @@ Running Latexmk with Batch Files
 
 .. highlight:: bat
 
-If you are working on *M$ Windows*, you may not be used to typing things at the
+If you are working on *Windows*, you may not be used to typing things at the
 command line. You may prefer clicking on things.
 
 No problem, just create a file (in the same folder as your ``.tex`` files)
@@ -127,21 +131,23 @@ Configuration Files
 
 .. highlight:: perl
 
-System-wide config file for Windows: ``C:\latexmk\LatexMk``
-
-This file should contain::
-
-   $pdf_previewer = "start gsview32";
-
-You'll need *GSview* and *Ghostscript* for that,
-see http://pages.cs.wisc.edu/~ghost/gsview/.
-
-On Linux/OSX Systems, you can put your configurations into ``$HOME/.latexmkrc``,
+On *Linux*, you can put your configurations into ``$HOME/.latexmkrc``,
 which could contain something like this::
 
    $dvi_previewer = 'start xdvi -watchfile 1.5';
    $ps_previewer  = 'start gv --watch';
    $pdf_previewer = 'start evince';
+
+On *macOS*, you can also use ``$HOME/.latexmkrc``.
+
+On *Windows*, you can use the system-wide config file ``C:\latexmk\LatexMk``
+(if the file doesn't exist yet, just create a new text file with this name).
+To choose a PDF viewer, use something like this::
+
+   $pdf_previewer = "start gsview32";
+
+You'll need *GSview* and *Ghostscript* for that,
+see http://pages.cs.wisc.edu/~ghost/gsview/.
 
 Some previewers use different methods for updating the viewed PDF file.
 You can change that with ``$pdf_update_method``, like in this example::
@@ -184,7 +190,7 @@ Advanced Options
 
 Latexmk can also do more crazy stuff.
 
-For example it can create a nomenclature (you'll have to use the *nomencl*
+For example, it can create a nomenclature (you'll have to use the *nomencl*
 package) like this::
 
    @cus_dep_list = (@cus_dep_list, "glo gls 0 makenomenclature");
