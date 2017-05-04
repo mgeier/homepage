@@ -138,13 +138,28 @@ which could contain something like this::
    $ps_previewer  = 'start gv --watch';
    $pdf_previewer = 'start evince';
 
-On *macOS*, you can also use ``$HOME/.latexmkrc``.
+On *macOS*, you can also use ``$HOME/.latexmkrc``, e.g. with this content::
+
+   $pdf_previewer = 'open -a Skim';
+   $pdflatex = 'pdflatex -synctex=1';
+   @generated_exts = (@generated_exts, 'synctex.gz');
+
+This uses Skim_ as preview application, which can be set up to automatically
+update its display when the PDF file changes by selecting
+"Preferences" -- "Sync" -- "Check for file changes".
+While you are at it, you should also activates the *SyncTeX* feature by
+selecting you editor right below in the "PDF-TeX Sync support" section.
+With this selected and with ``-synctex=1`` in your LaTeX call, you can
+Shift-⌘-click in the preview window and jump directly to the corresponding
+source text in your editor!
+
+.. _Skim: http://skim-app.sourceforge.net/
 
 On *Windows*, you can use the system-wide config file ``C:\latexmk\LatexMk``
 (if the file doesn't exist yet, just create a new text file with this name).
 To choose a PDF viewer, use something like this::
 
-   $pdf_previewer = "start gsview32";
+   $pdf_previewer = 'start gsview32';
 
 You'll need *GSview* and *Ghostscript* for that,
 see http://pages.cs.wisc.edu/~ghost/gsview/.
