@@ -141,7 +141,7 @@ which could contain something like this::
 On *macOS*, you can also use ``$HOME/.latexmkrc``, e.g. with this content::
 
    $pdf_previewer = 'open -a Skim';
-   $pdflatex = 'pdflatex -synctex=1';
+   $pdflatex = 'pdflatex -synctex=1 -interaction=nonstopmode';
    @generated_exts = (@generated_exts, 'synctex.gz');
 
 This uses Skim_ as preview application, which can be set up to automatically
