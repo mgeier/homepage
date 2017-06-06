@@ -194,6 +194,27 @@ Now you can actually change something and then commit your changes::
 
 .. todo:: more about branches?
 
+Merging Branches
+----------------
+
+.. todo:: more information about merging and potential merge conflicts
+
+.. todo:: ``git mergetool`` is really useful!
+
+Setting up Vim_ + fugitive_ as ``mergetool``::
+
+    git config --global mergetool.fugitive.cmd 'vim -f -c "Gdiff" "$MERGED"'
+    git config --global merge.tool fugitive
+
+On *macOS*, you can use *FileMerge* (you need to have *Xcode* installed)::
+
+    git config --global merge.tool opendiff
+
+.. _Vim: http://www.vim.org/
+.. _fugitive: https://github.com/tpope/vim-fugitive/
+
+.. todo:: more advertisement for Vim and fugitive!
+
 More Aliases
 ------------
 
