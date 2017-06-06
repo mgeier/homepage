@@ -203,7 +203,7 @@ Merging Branches
 
 Setting up Vim_ + fugitive_ as ``mergetool``::
 
-    git config --global mergetool.fugitive.cmd 'vim -f -c "Gdiff" "$MERGED"'
+    git config --global mergetool.fugitive.cmd 'gvim -f -c "Gdiff" "$MERGED"'
     git config --global merge.tool fugitive
 
 On *macOS*, you can use *FileMerge* (you need to have *Xcode* installed)::
