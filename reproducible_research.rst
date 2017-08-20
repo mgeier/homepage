@@ -708,4 +708,16 @@ Reproducibility and reliability of biomedical research
 Rigor and Reproducibility (NIH guidelines)
     https://grants.nih.gov/reproducibility/index.htm
 
+Analysis of meta-analyses identifies where sciences' real problems lie
+    https://arstechnica.com/science/2017/03/bias-in-science-small-samples-isolated-scientists-and-dodgy-individuals/
+
+Vienna Principles
+    http://viennaprinciples.org/
+
+sciencecodemanifesto.org
+    https://web.archive.org/web/20160218093215/http://sciencecodemanifesto.org/
+
+Reproducible Research Tools
+    https://www.stat.wisc.edu/reproducible
+
 .. vim:textwidth=80:spell
