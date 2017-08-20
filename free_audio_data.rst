@@ -43,6 +43,9 @@ Public Domain Project
 Europeana Music
    http://www.europeana.eu/portal/collections/music
 
+Openair
+   http://www.openairlib.net/anechoicdb
+
 Multi-Track Recordings
 ----------------------
 
@@ -50,4 +53,6 @@ https://archive.org/search.php?query=&and[]=mediatype%3A%22audio%22&and[]=subjec
 
 http://www.soundfieldsynthesis.org/other-resources/#multitracks
 
-https://www.upf.edu/web/mtg/phenicx-anechoic
+http://research.cs.aalto.fi/acoustics/virtual-acoustics/research/acoustic-measurement-and-analysis/85-anechoic-recordings.html
+
+https://www.upf.edu/web/mtg/phenicx-anechoic (Aalto denoised)
