@@ -581,6 +581,11 @@ J. Wilsdon et al.,
 Metrics in Research Assessment and Management <http://dx.doi.org/10.13140/RG.2.1.4929.1363>`__,
 2015.
 
+Barak A. Cohen,
+`Point of View: How should novelty be valued in science?
+<https://doi.org/10.7554/eLife.28699>`__,
+2017.
+
 Links
 -----
 
