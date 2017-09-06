@@ -725,4 +725,10 @@ sciencecodemanifesto.org
 Reproducible Research Tools
     https://www.stat.wisc.edu/reproducible
 
+Peer Reviewers' Openness Initiative
+    https://opennessinitiative.org/
+
+Initiative for Open Citations
+    https://i4oc.org/
+
 .. vim:textwidth=80:spell
