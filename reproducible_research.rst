@@ -586,6 +586,20 @@ Barak A. Cohen,
 <https://doi.org/10.7554/eLife.28699>`__,
 2017.
 
+D. Cicchetti,
+`The reliability of peer review for manuscript and grant submissions: A
+cross-disciplinary investigation <https://doi.org/10.1017/S0140525X00065675>`__,
+1991.
+
+J. Bollen et al.,
+`From funding agencies to scientific agency <https://doi.org/10.1002/embr.201338068>`__,
+2014.
+
+J. Bollen et al.,
+`An efficient system to fund science: from proposal review to peer-to-peer
+distributions <https://doi.org/10.1007/s11192-016-2110-3>`__,
+2017.
+
 Links
 -----
 
