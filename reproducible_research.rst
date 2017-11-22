@@ -745,4 +745,7 @@ Peer Reviewers' Openness Initiative
 Initiative for Open Citations
     https://i4oc.org/
 
+Workshop: Reproducible Research using Jupyter Notebooks
+    https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/
+
 .. vim:textwidth=80:spell
