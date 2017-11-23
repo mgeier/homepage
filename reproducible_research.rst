@@ -748,4 +748,7 @@ Initiative for Open Citations
 Workshop: Reproducible Research using Jupyter Notebooks
     https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/
 
+ACM Artifact Review and Badging
+    https://www.acm.org/publications/policies/artifact-review-badging
+
 .. vim:textwidth=80:spell
