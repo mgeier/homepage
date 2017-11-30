@@ -62,3 +62,9 @@ Publisher's Guide to Open Data Licensing
 
 Software Licenses in Plain English
    https://tldrlegal.com/
+
+Everything an open source maintainer might need to know about open source licensing
+   https://ben.balter.com/2017/11/28/everything-an-open-source-maintainer-might-need-to-know-about-open-source-licensing/
+
+Copyright notices for open source projects
+   https://ben.balter.com/2015/06/03/copyright-notices-for-websites-and-open-source-projects/
