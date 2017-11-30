@@ -751,4 +751,8 @@ Workshop: Reproducible Research using Jupyter Notebooks
 ACM Artifact Review and Badging
     https://www.acm.org/publications/policies/artifact-review-badging
 
+Science is "show me," not "trust me"
+    http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/
+
+
 .. vim:textwidth=80:spell
