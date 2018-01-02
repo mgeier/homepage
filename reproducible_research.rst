@@ -754,5 +754,8 @@ ACM Artifact Review and Badging
 Science is "show me," not "trust me"
     http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/
 
+An unhealthy obsession with p-values is ruining science
+    https://www.vox.com/2016/3/15/11225162/p-value-simple-definition-hacking
+
 
 .. vim:textwidth=80:spell
