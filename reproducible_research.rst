@@ -757,5 +757,10 @@ Science is "show me," not "trust me"
 An unhealthy obsession with p-values is ruining science
     https://www.vox.com/2016/3/15/11225162/p-value-simple-definition-hacking
 
+The Irreproducibility Crisis of Modern Science: Causes, Consequences, and the Road to Reform
+    https://www.nas.org/projects/irreproducibility_report
+
+    https://www.nas.org/images/documents/NAS_irreproducibilityReport.pdf
+
 
 .. vim:textwidth=80:spell
