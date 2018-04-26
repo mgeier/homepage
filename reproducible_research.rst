@@ -762,5 +762,8 @@ The Irreproducibility Crisis of Modern Science: Causes, Consequences, and the Ro
 
     https://www.nas.org/images/documents/NAS_irreproducibilityReport.pdf
 
+Why I've lost faith in p values
+    https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values
+
 
 .. vim:textwidth=80:spell
