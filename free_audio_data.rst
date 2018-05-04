@@ -46,6 +46,9 @@ Europeana Music
 Openair
    http://www.openairlib.net/anechoicdb
 
+HSD, ISAVE, stimulusdatenbank
+   https://isave.hs-duesseldorf.de/forschung/projekte/stimulusdatenbank/
+
 Multi-Track Recordings
 ----------------------
 
