@@ -600,6 +600,19 @@ J. Bollen et al.,
 distributions <https://doi.org/10.1007/s11192-016-2110-3>`__,
 2017.
 
+B. Alberts et al.,
+`Self-Correction in Science at Work
+<https://doi.org/10.1126/science.aab3847>`__,
+Science Vol. 348, Issue 6242, pp. 1420-1422,
+2015
+
+B. A. Nosek et al.,
+`Promoting an Open Research Culture
+<https://doi.org/10.1126/science.aab2374>`__,
+Science Vol. 348, Issue 6242, pp. 1422-1425,
+2015
+
+
 Links
 -----
 
