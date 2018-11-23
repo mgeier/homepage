@@ -48,6 +48,8 @@ https://python-packaging-user-guide.readthedocs.org/en/latest/index.html
 
 https://caremad.io/blog/setup-vs-requirement/
 
+https://manikos.github.io/a-tour-on-python-packaging
+
 License
 -------
 
