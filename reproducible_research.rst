@@ -11,6 +11,13 @@ It is biased towards audio signal processing, audio engineering, spatial audio
 reproduction and auditory perception.
 However, many of the ideas presented here can be applied more widely.
 
+Other collections of similar information:
+
+ * https://github.com/INRIA/awesome-open-science-software
+
+ * https://livingthing.danmackinlay.name/open_notebook_science.html
+
+
 Definitions
 -----------
 
