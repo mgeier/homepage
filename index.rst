@@ -16,4 +16,5 @@ This is some stuff I wrote/collected:
    git
    sphinx
    quotes
+   links
    todo
