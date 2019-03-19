@@ -785,5 +785,8 @@ The Irreproducibility Crisis of Modern Science: Causes, Consequences, and the Ro
 Why I've lost faith in p values
     https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values
 
+Budapest Open Access Initiative
+   https://www.budapestopenaccessinitiative.org/
+
 
 .. vim:textwidth=80:spell
