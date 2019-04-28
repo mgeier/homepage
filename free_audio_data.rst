@@ -49,6 +49,11 @@ Openair
 HSD, ISAVE, stimulusdatenbank
    https://isave.hs-duesseldorf.de/forschung/projekte/stimulusdatenbank/
 
+Free Firearm/Medieval Weapons Sound Effects
+   https://www.airbornesound.com/downloads/free-firearm-sound-effects-library-expanded-edition/
+
+   https://www.airbornesound.com/downloads/free-medieval-weapons-sound-effects-library-curated-edition/
+
 Multi-Track Recordings
 ----------------------
 
@@ -59,3 +64,12 @@ http://www.soundfieldsynthesis.org/other-resources/#multitracks
 http://research.cs.aalto.fi/acoustics/virtual-acoustics/research/acoustic-measurement-and-analysis/85-anechoic-recordings.html
 
 https://www.upf.edu/web/mtg/phenicx-anechoic (Aalto denoised)
+
+Other Lists with Links
+----------------------
+
+* https://www.diigo.com/list/kvitek/Public-Domain-Audio
+
+* https://guides.library.harvard.edu/Finding_Images/finding_audio
+
+* http://www.publicdomainsherpa.com/public-domain-recordings.html
