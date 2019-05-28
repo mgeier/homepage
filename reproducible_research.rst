@@ -788,5 +788,14 @@ Why I've lost faith in p values
 Budapest Open Access Initiative
    https://www.budapestopenaccessinitiative.org/
 
+FAIR Principles (Findable, Accessible, Interoperable, Re-usable)
+   https://www.nature.com/articles/sdata201618
+
+   https://www.go-fair.org/fair-principles/
+
+   https://www.force11.org/group/fairgroup/fairprinciples
+
+   https://www.force11.org/fairprinciples
+
 
 .. vim:textwidth=80:spell
