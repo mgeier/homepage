@@ -481,6 +481,9 @@ PubPeer (post publication peer review)
 PubMed Commons (post publication peer review)
     https://www.ncbi.nlm.nih.gov/pubmedcommons/
 
+CKAN (Open Source data portal platform)
+    https://ckan.org/
+
 Journals
 --------
 
