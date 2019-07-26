@@ -6,6 +6,8 @@ This is some stuff I wrote/collected:
 .. toctree::
    :maxdepth: 2
 
+   git
+   git-jupyter
    reproducible_research
    open_education
    licensing
@@ -13,7 +15,6 @@ This is some stuff I wrote/collected:
    python
    make_tutorial/make_tutorial
    latexmk
-   git
    sphinx
    quotes
    links
