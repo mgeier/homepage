@@ -29,6 +29,7 @@ needs_sphinx = '1.3'  # for sphinx_rtd_theme
 extensions = [
     #'sphinx.ext.mathjax',
     'sphinx.ext.todo',
+    'nbsphinx',
 ]
 
 todo_include_todos = True
@@ -76,7 +77,7 @@ except Exception:
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build']
+exclude_patterns = ['_build', '**.ipynb_checkpoints']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -100,6 +101,34 @@ pygments_style = 'sphinx'
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
 
+nbsphinx_prolog = r"""
+{% set docname = env.doc2path(env.docname, base='') %}
+
+.. only:: html
+
+    .. role:: raw-html(raw)
+        :format: html
+
+    .. nbinfo::
+
+        This page was generated from `{{ docname }}`__.
+        Interactive online version: :raw-html:`<a href="https://mybinder.org/v2/gh/mgeier/homepage/{{ env.config.release }}?filepath={{ docname }}"><img alt="Binder badge" src="https://mybinder.org/badge_logo.svg" style="vertical-align:text-bottom"></a>`
+
+    __ https://github.com/mgeier/homepage/blob/
+        {{ env.config.release }}/{{ docname }}
+"""
+
+# -- Get version information and date from Git ----------------------------
+
+try:
+    from subprocess import check_output
+    release = check_output(['git', 'describe', '--tags', '--always'])
+    release = release.decode().strip()
+    today = check_output(['git', 'show', '-s', '--format=%ad', '--date=short'])
+    today = today.decode().strip()
+except Exception:
+    release = '<unknown>'
+    today = '<unknown date>'
 
 # -- Options for HTML output ---------------------------------------------------
 
