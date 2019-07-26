@@ -118,7 +118,9 @@ simply call::
 ... and it will do the same thing as before.
 
 .. todo::
-   this can happen::
+   this can happen:
+
+   .. code-block:: none
 
       make: `hello' is up to date.
 
