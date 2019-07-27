@@ -255,7 +255,7 @@ It should work with the slightly more verbose::
 Cleaning a Whole Repository
 ---------------------------
 
-Make sure you don't have any local changes!
+Make sure you don't have any local changes and no un-committed files!
 
 You might want to create a new branch (and switch to it) before doing this!
 
