@@ -23,5 +23,7 @@ https://docs.rs/failure_ext/
 
 https://github.com/marmistrz/failure_ext
 
+https://github.com/dtolnay/anyhow (no context, but nice boxed Error)
+
 .. literalinclude:: examples/unwrap.rs
    :language: rust
