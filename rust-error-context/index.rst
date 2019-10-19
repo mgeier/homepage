@@ -25,5 +25,7 @@ https://github.com/marmistrz/failure_ext
 
 https://github.com/dtolnay/anyhow (no context, but nice boxed Error)
 
+https://github.com/dtolnay/thiserror (derive macro)
+
 .. literalinclude:: examples/unwrap.rs
    :language: rust
