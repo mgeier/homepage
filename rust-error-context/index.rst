@@ -27,5 +27,11 @@ https://github.com/dtolnay/anyhow (no context, but nice boxed Error)
 
 https://github.com/dtolnay/thiserror (derive macro)
 
+https://github.com/shepmaster/snafu
+
+https://github.com/withoutboats/fehler
+
+https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html
+
 .. literalinclude:: examples/unwrap.rs
    :language: rust
