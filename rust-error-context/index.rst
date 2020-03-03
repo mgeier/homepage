@@ -33,5 +33,7 @@ https://github.com/withoutboats/fehler
 
 https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html
 
+https://fasterthanli.me/blog/2019/making-our-own-ping-10/
+
 .. literalinclude:: examples/unwrap.rs
    :language: rust
