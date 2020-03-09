@@ -13,28 +13,19 @@ fn load_big_number<P: AsRef<Path>>(path: P, threshold: i32) -> Result<i32, LoadE
     }
 }
 
-fn main() -> Result<(), LoadError> {
+fn main() -> Result<(), anyhow::Error> {
     let path = "myfile.txt";
     let number = load_big_number(path, 42)?;
     println!("the number is {}", number);
     Ok(())
 }
 
-#[derive(Debug)]
+#[derive(thiserror::Error, Debug)]
 enum LoadError {
-    Read(io::Error),
-    Parse(ParseIntError),
+    #[error("Error reading a file")]
+    Read(#[from] io::Error),
+    #[error("Error parsing a file")]
+    Parse(#[from] ParseIntError),
+    #[error("The value is too small")]
     TooSmall,
-}
-
-impl From<io::Error> for LoadError {
-    fn from(error: io::Error) -> LoadError {
-        LoadError::Read(error)
-    }
-}
-
-impl From<ParseIntError> for LoadError {
-    fn from(error: ParseIntError) -> LoadError {
-        LoadError::Parse(error)
-    }
 }
