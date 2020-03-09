@@ -3,7 +3,9 @@ use std::path::Path;
 use anyhow::Context;
 
 fn load_big_number<P: AsRef<Path>>(path: P) -> Result<i32, anyhow::Error> {
-    let file_data = std::fs::read_to_string(path).context("error reading file")?;
+    let path = path.as_ref();
+    let file_data =
+        std::fs::read_to_string(path).with_context(|| format!("error reading {:?}", path))?;
     parse_big_number(&file_data)
 }
 
