@@ -1,10 +1,13 @@
-use std::fs;
 use std::path::Path;
 
-fn load_big_number<P: AsRef<Path>>(path: P, threshold: i32) -> i32 {
-    let file_data = fs::read_to_string(path).expect("error reading file");
-    let number = file_data.trim().parse().expect("error parsing data");
-    if number < threshold {
+fn load_big_number<P: AsRef<Path>>(path: P) -> i32 {
+    let file_data = std::fs::read_to_string(path).expect("error reading file");
+    parse_big_number(&file_data)
+}
+
+fn parse_big_number(data: &str) -> i32 {
+    let number = data.trim().parse().expect("error parsing number");
+    if number < 42 {
         panic!("the number is too small!");
     }
     number
@@ -12,6 +15,6 @@ fn load_big_number<P: AsRef<Path>>(path: P, threshold: i32) -> i32 {
 
 fn main() {
     let path = "myfile.txt";
-    let number = load_big_number(path, 42);
+    let number = load_big_number(path);
     println!("the number is {}", number);
 }
