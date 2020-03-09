@@ -1,9 +1,9 @@
 use std::fs;
 use std::path::Path;
 
-fn load_big_number<P: AsRef<Path>>(path: P, threshold: isize) -> isize {
+fn load_big_number<P: AsRef<Path>>(path: P, threshold: i32) -> i32 {
     let file_data = fs::read_to_string(path).unwrap();
-    let number = file_data.trim().parse::<isize>().unwrap();
+    let number = file_data.trim().parse().unwrap();
     if number < threshold {
         panic!("the number is too small!");
     }
