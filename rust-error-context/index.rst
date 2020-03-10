@@ -35,5 +35,7 @@ https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.
 
 https://fasterthanli.me/blog/2019/making-our-own-ping-10/
 
+https://medium.com/@paulcolomiets/adding-context-to-rust-errors-3c6f58a7074b
+
 .. literalinclude:: examples/unwrap.rs
    :language: rust
