@@ -49,20 +49,20 @@ enum ParseError {
     TooSmall,
 }
 
-impl FromSourceAndContext<std::io::Error, &Path> for LoadError {
-    fn from_source_and_context(source: std::io::Error, context: &Path) -> Self {
+impl FromSourceAndContext<std::io::Error, PathBuf> for LoadError {
+    fn from_source_and_context(source: std::io::Error, context: PathBuf) -> Self {
         LoadError::Read {
             source,
-            context: context.into(),
+            context,
         }
     }
 }
 
-impl FromSourceAndContext<ParseError, &Path> for LoadError {
-    fn from_source_and_context(source: ParseError, context: &Path) -> Self {
+impl FromSourceAndContext<ParseError, PathBuf> for LoadError {
+    fn from_source_and_context(source: ParseError, context: PathBuf) -> Self {
         LoadError::Parse {
             source,
-            context: context.into(),
+            context,
         }
     }
 }
