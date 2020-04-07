@@ -1,3 +1,4 @@
 nbsphinx
 ipykernel
+insipid-sphinx-theme
 sphinx-last-updated-by-git
