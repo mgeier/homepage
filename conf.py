@@ -33,11 +33,6 @@ extensions = [
     'sphinx_last_updated_by_git',
 ]
 
-html_context = {
-    # Override setting from readthedocs.org
-    'commit': ''
-}
-
 todo_include_todos = True
 
 # Add any paths that contain templates here, relative to this directory.
