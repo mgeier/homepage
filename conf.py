@@ -50,7 +50,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'homepage'
 #html_show_copyright = False
-copyright = u'Creative Commons CC0 - http://creativecommons.org/publicdomain/zero/1.0/. To the extent possible under law, Matthias Geier has waived all copyright and related or neighboring rights to this work.'
+copyright = u'Creative Commons CC0 - http://creativecommons.org/publicdomain/zero/1.0/. To the extent possible under law, Matthias Geier has waived all copyright and related or neighboring rights to this work'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
