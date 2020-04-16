@@ -3,6 +3,8 @@
 
 {% block footer %}
 {{ super() }}
+{% if sourcename is defined %}
+<div id="utterances-container">
 <script src="https://utteranc.es/client.js"
         repo="mgeier/homepage"
         issue-term="pathname"
@@ -11,4 +13,6 @@
         crossorigin="anonymous"
         async>
 </script>
+</div>
+{% endif %}
 {% endblock %}
