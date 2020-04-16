@@ -1,10 +1,8 @@
 {% extends "!layout.html" %}
 
 
-{% block footer %}
-{{ super() }}
+{% block comments %}
 {% if sourcename is defined %}
-<div id="utterances-container">
 <script src="https://utteranc.es/client.js"
         repo="mgeier/homepage"
         issue-term="pathname"
@@ -13,6 +11,5 @@
         crossorigin="anonymous"
         async>
 </script>
-</div>
 {% endif %}
 {% endblock %}
