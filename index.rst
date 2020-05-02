@@ -18,6 +18,7 @@ This is some stuff I wrote/collected:
    make_tutorial/make_tutorial
    latexmk
    sphinx
+   projects
    quotes
    links
    todo
