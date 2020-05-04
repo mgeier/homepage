@@ -106,9 +106,77 @@ https://nbviewer.jupyter.org/github/spatialaudio/communication-acoustics-exercis
 
 :raw-html:`<a class="github-button" href="https://github.com/spatialaudio/communication-acoustics-exercises" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/communication-acoustics-exercises on GitHub">spatialaudio/communication-acoustics-exercises</a>`
 
+
 Minor Contributions
 -------------------
 
-Jupyter ecosystem, SymPy, RTD, ...
+The following links show some projects I have contributed to,
+with links to my "pull requests" and the issues I created for each project.
 
-https://github.com/hoene/libmysofa
+
+Audio-Related
+^^^^^^^^^^^^^
+
+* https://github.com/hoene/libmysofa
+  -- `pull requests <https://github.com/hoene/libmysofa/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/hoene/libmysofa/issues?q=is:issue+author:mgeier>`__
+
+
+Sphinx and Related
+^^^^^^^^^^^^^^^^^^
+
+* https://github.com/sphinx-doc/sphinx
+  -- `pull requests <https://github.com/sphinx-doc/sphinx/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/sphinx-doc/sphinx/issues?q=is:issue+author:mgeier>`__
+* https://github.com/bashtage/sphinx-material
+  -- `pull requests <https://github.com/bashtage/sphinx-material/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/bashtage/sphinx-material/issues?q=is:issue+author:mgeier>`__
+* https://github.com/guzzle/guzzle_sphinx_theme
+  -- `pull requests <https://github.com/guzzle/guzzle_sphinx_theme/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/guzzle/guzzle_sphinx_theme/issues?q=is:issue+author:mgeier>`__
+* https://github.com/readthedocs/sphinx_rtd_theme
+  -- `pull requests <https://github.com/readthedocs/sphinx_rtd_theme/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/readthedocs/sphinx_rtd_theme/issues?q=is:issue+author:mgeier>`__
+* https://github.com/readthedocs/recommonmark
+  -- `pull requests <https://github.com/readthedocs/recommonmark/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/readthedocs/recommonmark/issues?q=is:issue+author:mgeier>`__
+* https://github.com/executablebooks/sphinx-copybutton
+  -- `pull requests <https://github.com/executablebooks/sphinx-copybutton/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/executablebooks/sphinx-copybutton/issues?q=is:issue+author:mgeier>`__
+
+
+Jupyter Ecosystem
+^^^^^^^^^^^^^^^^^
+
+* https://github.com/jupyter/notebook
+  -- `pull requests <https://github.com/jupyter/notebook/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/jupyter/notebook/issues?q=is:issue+author:mgeier>`__
+* https://github.com/jupyterlab/jupyterlab
+  -- `pull requests <https://github.com/jupyterlab/jupyterlab/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/jupyterlab/jupyterlab/issues?q=is:issue+author:mgeier>`__
+* https://github.com/ipython/ipython
+  -- `pull requests <https://github.com/ipython/ipython/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/ipython/ipython/issues?q=is:issue+author:mgeier>`__
+* https://github.com/jupyter/nbconvert
+  -- `pull requests <https://github.com/jupyter/nbconvert/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/jupyter/nbconvert/issues?q=is:issue+author:mgeier>`__
+* https://github.com/jupyter-widgets/ipywidgets
+  -- `pull requests <https://github.com/jupyter-widgets/ipywidgets/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/jupyter-widgets/ipywidgets/issues?q=is:issue+author:mgeier>`__
+* https://github.com/jupyter/nbclient
+  -- `pull requests <https://github.com/jupyter/nbclient/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/jupyter/nbclient/issues?q=is:issue+author:mgeier>`__
+
+
+Scientific Python Fundamentals
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* https://github.com/numpy/numpy
+  -- `pull requests <https://github.com/numpy/numpy/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/numpy/numpy/issues?q=is:issue+author:mgeier>`__
+* https://github.com/sympy/sympy
+  -- `pull requests <https://github.com/sympy/sympy/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/sympy/sympy/issues?q=is:issue+author:mgeier>`__
+* https://github.com/matplotlib/matplotlib
+  -- `pull requests <https://github.com/matplotlib/matplotlib/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/matplotlib/matplotlib/issues?q=is:issue+author:mgeier>`__
