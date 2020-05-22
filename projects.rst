@@ -137,6 +137,9 @@ Sphinx and Related
 * https://github.com/readthedocs/sphinx_rtd_theme
   -- `pull requests <https://github.com/readthedocs/sphinx_rtd_theme/pulls?q=is:pr+author:mgeier>`__
   -- `issues <https://github.com/readthedocs/sphinx_rtd_theme/issues?q=is:issue+author:mgeier>`__
+* https://github.com/readthedocs/readthedocs.org
+  -- `pull requests <https://github.com/readthedocs/readthedocs.org/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/readthedocs/readthedocs.org/issues?q=is:issue+author:mgeier>`__
 * https://github.com/readthedocs/recommonmark
   -- `pull requests <https://github.com/readthedocs/recommonmark/pulls?q=is:pr+author:mgeier>`__
   -- `issues <https://github.com/readthedocs/recommonmark/issues?q=is:issue+author:mgeier>`__
