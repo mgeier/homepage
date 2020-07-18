@@ -13,8 +13,6 @@ todo_include_todos = True
 templates_path = ['_templates']
 
 project = u'homepage'
-#html_show_copyright = False
-copyright = u'Creative Commons CC0 - http://creativecommons.org/publicdomain/zero/1.0/. To the extent possible under law, Matthias Geier has waived all copyright and related or neighboring rights to this work'
 
 exclude_patterns = ['_build']
 
@@ -58,6 +56,8 @@ html_theme_options = {
 }
 html_title = project
 
+html_add_permalinks = '\N{SECTION SIGN}'
+html_copy_source = False
 html_use_index = False
 
 # -- Options for LaTeX output --------------------------------------------------
