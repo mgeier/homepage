@@ -83,7 +83,7 @@ own project while still keeping the copyright notice.
 
 If the module consists of several source files, this is not necessary.
 It's enough to put the copyright notice and the license text into a file
-`LICENSE` in the main directory (you should have this file in any case).
+``LICENSE`` in the main directory (you should have this file in any case).
 
 Further Reading
 ---------------
