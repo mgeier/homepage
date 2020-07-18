@@ -8,6 +8,7 @@
 My Projects and Collaborations
 ==============================
 
+Most of my projects live on Github, where I have the user name
 :raw-html:`<a class="github-button" href="https://github.com/mgeier" data-show-count="true" aria-label="Follow @mgeier on GitHub">@mgeier</a>`
 
 Created and Maintained by Me
@@ -15,6 +16,11 @@ Created and Maintained by Me
 
 ``sounddevice`` Module for Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Play and record sound with Python.
+The ``sounddevice`` module provides bindings for the PortAudio library
+and a few convenience functions to play and record
+NumPy arrays containing audio signals.
 
 https://python-sounddevice.readthedocs.io/
 
@@ -24,14 +30,24 @@ https://python-sounddevice.readthedocs.io/
 ``rtmixer`` Module for Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Reliable low-latency audio playback and recording with Python,
+using PortAudio via the ``sounddevice`` module.
+
 https://python-rtmixer.readthedocs.io/
 
 :raw-html:`<a class="github-button" href="https://github.com/spatialaudio/python-rtmixer" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/python-rtmixer on GitHub">spatialaudio/python-rtmixer</a>`
+
+The ``rtmixer`` module uses a Python wrapper for PortAudio's ring buffer,
+which I've published as a separate project:
 
 :raw-html:`<a class="github-button" href="https://github.com/spatialaudio/python-pa-ringbuffer" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/python-pa-ringbuffer on GitHub">spatialaudio/python-pa-ringbuffer</a>`
 
 ``jack`` Module for Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Python bindings for the JACK Audio Connection Kit (JACK_).
+
+.. _JACK: https://jackaudio.org/
 
 https://jackclient-python.readthedocs.io/
 
@@ -40,6 +56,16 @@ https://jackclient-python.readthedocs.io/
 ``nbsphinx`` Extension for Sphinx
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+``nbsphinx`` is a Sphinx_ extension that provides a source parser for
+``*.ipynb`` files.
+Custom Sphinx directives are used to show `Jupyter Notebook`_ code cells (and of
+course their results) in both HTML and LaTeX output.
+Un-evaluated notebooks -- i.e. notebooks without stored output cells -- will be
+automatically executed during the Sphinx build process.
+
+.. _Sphinx: https://www.sphinx-doc.org/
+.. _Jupyter Notebook: https://jupyter.org/
+
 https://nbsphinx.readthedocs.io/
 
 :raw-html:`<a class="github-button" href="https://github.com/spatialaudio/nbsphinx" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/nbsphinx on GitHub">spatialaudio/nbsphinx</a>`
@@ -47,11 +73,18 @@ https://nbsphinx.readthedocs.io/
 ``sphinx_last_updated_by_git`` Extension for Sphinx
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+As the name suggests,
+this Sphinx_ extension uses Git to find out the date/time when each source file
+was last updated (which is typically displayed in the footer of each page).
+
 :raw-html:`<a class="github-button" href="https://github.com/mgeier/sphinx-last-updated-by-git" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/sphinx-last-updated-by-git on GitHub">mgeier/sphinx-last-updated-by-git</a>`
 
 
 Jupyter Notebooks About Python & Audio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A collection of some more and some less finished Jupyter notebooks
+about signal processing in Python (and more).
 
 https://nbviewer.jupyter.org/github/mgeier/python-audio/blob/master/index.ipynb
 
@@ -61,12 +94,17 @@ https://nbviewer.jupyter.org/github/mgeier/python-audio/blob/master/index.ipynb
 This "Homepage"
 ^^^^^^^^^^^^^^^
 
+A collection of notes about different topics.
+
 https://mg.readthedocs.io/
 
 :raw-html:`<a class="github-button" href="https://github.com/mgeier/homepage" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/homepage on GitHub">mgeier/homepage</a>`
 
 ``jupyter_format`` module for Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+An experimental new serialization format for Jupyter notebooks
+(as replacement for the ``.ipynb`` format).
 
 https://jupyter-format.readthedocs.io/en/latest/
 
@@ -78,14 +116,25 @@ Collaborations
 The SoundScape Renderer
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+The SoundScape Renderer (SSR) is a tool for
+real-time spatial audio reproduction providing a variety of rendering algorithms,
+e.g. Wave Field Synthesis, Higher-Order Ambisonics and binaural techniques.
+
 http://spatialaudio.net/ssr/
 
 :raw-html:`<a class="github-button" href="https://github.com/SoundScapeRenderer/ssr" data-icon="octicon-star" data-show-count="true" aria-label="Star SoundScapeRenderer/ssr on GitHub">SoundScapeRenderer/ssr</a>`
+
+The multi-threaded signal-processing core of the SSR is provided separately
+as a set of re-usable C++ libraries called "Audio Processing Framework":
 
 :raw-html:`<a class="github-button" href="https://github.com/AudioProcessingFramework/apf" data-icon="octicon-star" data-show-count="true" aria-label="Star AudioProcessingFramework/apf on GitHub">AudioProcessingFramework/apf</a>`
 
 ``sfs`` Module for Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A Python library for creating numercial simulations of
+*sound field synthesis* methods like Wave Field Synthesis (WFS) or
+Near-Field Compensated Higher Order Ambisonics (NFC-HOA).
 
 https://sfs-python.readthedocs.io/
 
@@ -93,6 +142,12 @@ https://sfs-python.readthedocs.io/
 
 ``soundfile`` Module for Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The ``soundfile`` module can read and write sound files.
+File reading/writing is supported through libsndfile_ via CFFI_.
+
+.. _libsndfile: http://www.mega-nerd.com/libsndfile/
+.. _CFFI: https://cffi.readthedocs.io/
 
 https://python-soundfile.readthedocs.io/
 
@@ -102,6 +157,16 @@ https://python-soundfile.readthedocs.io/
 Exercises for "Communication Acoustics" Lecture
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Course material
+(provided as Jupyter notebooks)
+for the exercises accompanying the lecture "Acoustics for Communications"
+(in German "Kommunikationsakustik") at
+`Institute of Communications Engineering/Faculty of Computer Science
+and Electrical Engineering/University of Rostock`__.
+
+__ http://www.int.uni-rostock.de/
+
+On ``nbviewer``:
 https://nbviewer.jupyter.org/github/spatialaudio/communication-acoustics-exercises/blob/master/index.ipynb
 
 :raw-html:`<a class="github-button" href="https://github.com/spatialaudio/communication-acoustics-exercises" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/communication-acoustics-exercises on GitHub">spatialaudio/communication-acoustics-exercises</a>`
