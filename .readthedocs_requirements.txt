@@ -1,3 +1,4 @@
+sphinx>=3.1.2
 nbsphinx
 ipykernel
 insipid-sphinx-theme
