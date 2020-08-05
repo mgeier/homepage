@@ -2,7 +2,6 @@
 # see https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 extensions = [
-    #'sphinx.ext.mathjax',
     'sphinx.ext.todo',
     'nbsphinx',
     'sphinx_last_updated_by_git',
@@ -48,8 +47,6 @@ except Exception:
 # -- Options for HTML output ---------------------------------------------------
 
 html_theme = 'insipid'
-html_theme_options = {
-}
 html_title = project
 
 html_add_permalinks = '\N{SECTION SIGN}'
