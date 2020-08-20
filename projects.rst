@@ -70,6 +70,7 @@ https://nbsphinx.readthedocs.io/
 
 :raw-html:`<a class="github-button" href="https://github.com/spatialaudio/nbsphinx" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/nbsphinx on GitHub">spatialaudio/nbsphinx</a>`
 
+
 ``sphinx_last_updated_by_git`` Extension for Sphinx
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -78,6 +79,16 @@ this Sphinx_ extension uses Git to find out the date/time when each source file
 was last updated (which is typically displayed in the footer of each page).
 
 :raw-html:`<a class="github-button" href="https://github.com/mgeier/sphinx-last-updated-by-git" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/sphinx-last-updated-by-git on GitHub">mgeier/sphinx-last-updated-by-git</a>`
+
+
+An HTML theme for Sphinx: ``insipid``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A mobile-friendly Sphinx theme that hopefully doesn't suck.
+
+https://insipid-sphinx-theme.readthedocs.io/
+
+:raw-html:`<a class="github-button" href="https://github.com/mgeier/insipid-sphinx-theme" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/insipid-sphinx-theme on GitHub">mgeier/insipid-sphinx-theme</a>`
 
 
 Jupyter Notebooks About Python & Audio
@@ -106,7 +117,7 @@ https://mg.readthedocs.io/
 An experimental new serialization format for Jupyter notebooks
 (as replacement for the ``.ipynb`` format).
 
-https://jupyter-format.readthedocs.io/en/latest/
+https://jupyter-format.readthedocs.io/
 
 :raw-html:`<a class="github-button" href="https://github.com/mgeier/jupyter-format" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/jupyter-format on GitHub">mgeier/jupyter-format</a>`
 
