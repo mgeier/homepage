@@ -172,7 +172,7 @@ You can change that with ``$pdf_update_method``, like in this example::
 
 Full documentation is available in the manpage_.
 
-.. _manpage: http://www.phys.psu.edu/~collins/software/latexmk/latexmk-430a.txt
+.. _manpage: http://personal.psu.edu/~jcc8/software/latexmk/latexmk-469a.txt
 
 Local Configuration Files
 -------------------------
