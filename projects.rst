@@ -121,6 +121,23 @@ https://jupyter-format.readthedocs.io/
 
 :raw-html:`<a class="github-button" href="https://github.com/mgeier/jupyter-format" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/jupyter-format on GitHub">mgeier/jupyter-format</a>`
 
+
+Rust FFI bindings to the ``libFLAC`` library
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+https://docs.rs/libflac-sys/
+
+:raw-html:`<a class="github-button" href="https://github.com/mgeier/libflac-sys" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/libflac-sys on GitHub">mgeier/libflac-sys</a>`
+
+
+Rust FFI bindings to the ``minimp3_ex`` library
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+https://docs.rs/minimp3_ex-sys/
+
+:raw-html:`<a class="github-button" href="https://github.com/mgeier/minimp3_ex-sys" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/minimp3_ex-sys on GitHub">mgeier/minimp3_ex-sys</a>`
+
+
 Collaborations
 --------------
 
