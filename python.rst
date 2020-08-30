@@ -50,6 +50,9 @@ https://caremad.io/blog/setup-vs-requirement/
 
 https://manikos.github.io/a-tour-on-python-packaging
 
+https://jwodder.github.io/kbits/posts/pypkg-mistakes/
+
+
 License
 -------
 
