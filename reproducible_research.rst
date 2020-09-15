@@ -622,6 +622,13 @@ B. A. Nosek et al.,
 Science Vol. 348, Issue 6242, pp. 1422-1425,
 2015
 
+Mary C. Murphy et al.,
+`Open science, communal culture, and women’s participation
+in the movement to improve science
+<https://doi.org/10.1073/pnas.1921320117>`__,
+Proceedings of the National Academy of Sciences,
+2020
+
 
 Links
 -----
