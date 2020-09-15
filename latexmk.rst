@@ -14,7 +14,7 @@ And the nice thing is: you probably have it already installed on your computer,
 because it is part of MacTeX_ and MikTeX_ and it is bundled with many Linux
 Distributions.
 
-.. _Latexmk: http://www.phys.psu.edu/~collins/software/latexmk-jcc/
+.. _Latexmk: https://personal.psu.edu/~jcc8/software/latexmk/
 .. _Perl: http://www.perl.org/
 .. _MacTeX: http://www.tug.org/mactex/
 .. _MikTeX: http://miktex.org/
