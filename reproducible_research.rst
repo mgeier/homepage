@@ -356,21 +356,21 @@ Python
    For more information, watch this: http://youtu.be/vt0Y39eMvpI
 
 Scientific Python (SciPy)
-    http://scipy.org/
+    https://scipy.org/
 
     This is a collection of many software projects:
-    `NumPy <http://www.numpy.org/>`_,
-    `SciPy <http://scipy.org/scipylib/>`_,
-    `matplotlib <http://matplotlib.org/>`_,
-    `IPython <http://ipython.org/>`_,
-    `SymPy <http://sympy.org/>`_,
-    `pandas <http://pandas.pydata.org/>`_,
-    `Mayavi <http://code.enthought.com/projects/mayavi/>`_,
-    `PyTables <http://www.pytables.org/>`_,
+    `NumPy <https://www.numpy.org/>`_,
+    `SciPy <https://scipy.org/scipylib/>`_,
+    `matplotlib <https://matplotlib.org/>`_,
+    `IPython <https://ipython.org/>`_,
+    `SymPy <https://sympy.org/>`_,
+    `pandas <https://pandas.pydata.org/>`_,
+    `Mayavi <https://code.enthought.com/projects/mayavi/>`_,
+    `PyTables <https://www.pytables.org/>`_,
     and many more ...
 
 See also my `introduction to Python, NumPy, IPython, ...
-<http://nbviewer.ipython.org/github/mgeier/python-audio/blob/master/index.ipynb>`_
+<https://nbviewer.jupyter.org/github/mgeier/python-audio/blob/master/index.ipynb>`_
 
 LaTeX
 ^^^^^
@@ -409,7 +409,7 @@ IJulia
     <http://nbviewer.ipython.org/url/jdj.mit.edu/~stevenj/IJulia%20Preview.ipynb>`_)
 
 VisTrails
-    http://www.vistrails.org/index.php/Main_Page
+    https://www.vistrails.org/index.php/Main_Page
 
 Sweave
     http://en.wikipedia.org/wiki/Sweave
@@ -421,11 +421,11 @@ Pweave
     http://mpastell.com/pweave/
 
 ActivePapers
-    http://dirac.cnrs-orleans.fr/plone/software/activepapers/
+    https://www.activepapers.org/
         * active_papers (JVM):
-          https://bitbucket.org/khinsen/active_papers
-        * active_papers_py (Python):
-          https://bitbucket.org/khinsen/active_papers_py/wiki/Home
+          https://www.activepapers.org/jvm-edition/
+        * activepapers-python (Python):
+          https://www.activepapers.org/python-edition/
 
 Online Services
 ---------------
@@ -464,7 +464,7 @@ re3data (Registry of Research Data Repositories)
     http://www.re3data.org/
 
 RADAR - Research Data Repository
-    http://www.radar-projekt.org/display/RE/Home
+    https://www.radar-service.eu/en
 
 Open Science Framework
     https://osf.io/
@@ -479,7 +479,8 @@ PubPeer (post publication peer review)
     https://pubpeer.com/
 
 PubMed Commons (post publication peer review)
-    https://www.ncbi.nlm.nih.gov/pubmedcommons/
+    ``https://www.ncbi.nlm.nih.gov/pubmedcommons/`` (discontinued, see
+    https://ftp.ncbi.nlm.nih.gov/pubmed/pubmedcommons/README.txt)
 
 CKAN (Open Source data portal platform)
     https://ckan.org/
@@ -532,7 +533,7 @@ Darrel C. Ince, Leslie Hatton, John Graham-Cumming,
 Nature Volume 482, 2012.
 
 Nature special `Challenges in Irreproducible Research
-<http://www.nature.com/nature/focus/reproducibility/>`_, 2010-2013.
+<https://web.archive.org/web/20170802213155/http://www.nature.com/news/reproducibility-1.17552>`_, 2010-2013.
 
 Fernando Pérez, Brian E. Granger, John D. Hunter,
 `Python: An Ecosystem for Scientific Computing
@@ -700,7 +701,8 @@ The Need for Openness in Data Journalism
     http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb
 
 Guidelines for Open Educational Resources (OER) in Higher Education
-    http://www.col.org/PublicationDocuments/Guidelines_OER_HE.pdf
+    http://www.unesco.org/new/en/communication-and-information/resources/publications-and-communication-materials/publications/full-list/guidelines-for-open-educational-resources-oer-in-higher-education/
+    http://oasis.col.org/handle/11599/60
 
 10 Simple Rules for the Care and Feeding of Scientific Data
     https://authorea.com/users/3/articles/3410/_show_article
@@ -721,11 +723,8 @@ Open Access: Berlin Declaration
     http://openaccess.mpg.de/Berlin-Declaration,
     `Wikipedia article <https://en.wikipedia.org/wiki/Berlin_Declaration_on_Open_Access_to_Knowledge_in_the_Sciences_and_Humanities>`__
 
-recomputation.org
-    http://recomputation.org/
-
 Reproducibility in Code and Science
-    http://justingosses.com/reproducibility/
+    https://web.archive.org/web/20170903071534/http://justingosses.com/reproducibility/
 
 The 7 biggest problems facing science, according to 270 scientists
     http://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process
@@ -749,7 +748,7 @@ Directory of Open Access Journals (DOAJ)
     https://doaj.org/
 
 Amsterdam Call for Action on Open Science
-    https://english.eu2016.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science
+    https://web.archive.org/web/20170619030655/https://english.eu2016.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science
 
 Reproducibility and reliability of biomedical research
     https://acmedsci.ac.uk/policy/policy-projects/reproducibility-and-reliability-of-biomedical-research/
@@ -767,7 +766,7 @@ sciencecodemanifesto.org
     https://web.archive.org/web/20160218093215/http://sciencecodemanifesto.org/
 
 Reproducible Research Tools
-    https://www.stat.wisc.edu/reproducible
+    https://old-www.stat.wisc.edu/reproducible
 
 Peer Reviewers' Openness Initiative
     https://opennessinitiative.org/
@@ -776,13 +775,13 @@ Initiative for Open Citations
     https://i4oc.org/
 
 Workshop: Reproducible Research using Jupyter Notebooks
-    https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/
+    https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/
 
 ACM Artifact Review and Badging
     https://www.acm.org/publications/policies/artifact-review-badging
 
 Science is "show me," not "trust me"
-    http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/
+    https://www.bitss.org/science-is-show-me-not-trust-me/
 
 An unhealthy obsession with p-values is ruining science
     https://www.vox.com/2016/3/15/11225162/p-value-simple-definition-hacking

@@ -358,9 +358,6 @@ There are also some nice videos:
 * intermediate
     * http://www.youtube.com/watch?v=Z2ZL14WWEJI
 
-* advanced
-    * http://blip.tv/scott-chacon/git-tips-4232122
-
 TODO
 ----
 

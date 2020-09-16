@@ -42,7 +42,7 @@ ShareAlike
 NonCommercial
    Consequences, Risks, and side-effects of the license module Non-Commercial -- NC http://blog.okfn.org/2013/01/08/consequences-risks-and-side-effects-of-the-license-module-non-commercial-use-only-2/
 
-   http://openglam.org/files/2013/01/iRights_CC-NC_Guide_English.pdf
+   https://web.archive.org/web/20190322154544/https://openglam.org/files/2013/01/iRights_CC-NC_Guide_English.pdf
 
 CC and Data
    https://wiki.creativecommons.org/wiki/Data

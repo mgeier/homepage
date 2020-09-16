@@ -14,7 +14,7 @@ Coding Style
 Have a look at `PEP 8 <http://legacy.python.org/dev/peps/pep-0008/>`_ and
 `PEP 257 <http://legacy.python.org/dev/peps/pep-0257/>`_ and
 probably also at the `Google Python Style Guide
-<http://google-styleguide.googlecode.com/svn/trunk/pyguide.html>`_.
+<https://google.github.io/styleguide/pyguide.html>`_.
 
 Docstrings
 ----------
@@ -34,19 +34,19 @@ Coverage
 Online Documentation
 --------------------
 
-Use `Sphinx <http://sphinx-doc.org/>`_ and https://readthedocs.org/.
+Use `Sphinx <https://www.sphinx-doc.org/>`_ and https://readthedocs.org/.
 
-Use `sphinx.ext.autodoc <http://sphinx-doc.org/ext/autodoc.html#module-sphinx.ext.autodoc>`_
-and `sphinx.ext.napoleon <http://sphinx.readthedocs.org/en/latest/ext/napoleon.html>`_.
+Use `sphinx.ext.autodoc <https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html>`_
+and `sphinx.ext.napoleon <https://www.sphinx-doc.org/en/master/usage/extensions/napoleon.html>`_.
 
 Installer
 ---------
 
-`setuptools <http://pythonhosted.org/setuptools/>`_
+`setuptools <https://setuptools.readthedocs.io/>`_
 
-https://python-packaging-user-guide.readthedocs.org/en/latest/index.html
+https://python-packaging-user-guide.readthedocs.io/
 
-https://caremad.io/blog/setup-vs-requirement/
+https://web.archive.org/web/20140921105456/https://caremad.io/blog/setup-vs-requirement/
 
 https://manikos.github.io/a-tour-on-python-packaging
 

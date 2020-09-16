@@ -44,15 +44,10 @@ Europeana Music
    http://www.europeana.eu/portal/collections/music
 
 Openair
-   http://www.openairlib.net/anechoicdb
+   https://openairlib.net/?page_id=310
 
 HSD, ISAVE, stimulusdatenbank
    https://isave.hs-duesseldorf.de/forschung/projekte/stimulusdatenbank/
-
-Free Firearm/Medieval Weapons Sound Effects
-   https://www.airbornesound.com/downloads/free-firearm-sound-effects-library-expanded-edition/
-
-   https://www.airbornesound.com/downloads/free-medieval-weapons-sound-effects-library-curated-edition/
 
 Multi-Track Recordings
 ----------------------
@@ -70,6 +65,6 @@ Other Lists with Links
 
 * https://www.diigo.com/list/kvitek/Public-Domain-Audio
 
-* https://guides.library.harvard.edu/Finding_Images/finding_audio
+* https://guides.library.harvard.edu/Finding_Images/finding_audio#s-lg-page-section-2072817
 
 * http://www.publicdomainsherpa.com/public-domain-recordings.html
