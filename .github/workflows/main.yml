@@ -1,0 +1,37 @@
+name: Build HTML pages and check links
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "11 11 11 * *"
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Install pandoc
+        run: |
+          sudo apt-get install pandoc
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Install RTD requirements
+        run: |
+          python -m pip install -r .readthedocs_requirements.txt
+      - name: Build HTML
+        run: |
+          python -m sphinx -W --keep-going --color -d _build/doctrees/ . _build/html/ -b html
+      - name: Check links
+        run: |
+          python -m sphinx -W --keep-going --color -d _build/doctrees/ . _build/linkcheck/ -b linkcheck
+      - name: Upload results
+        uses: actions/upload-artifact@v2
+        if: ${{ success() || failure() }}
+        with:
+          name: linkcheck
+          path: _build/linkcheck/output.*
+
