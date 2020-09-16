@@ -11,8 +11,8 @@ module.
 Coding Style
 ------------
 
-Have a look at `PEP 8 <http://legacy.python.org/dev/peps/pep-0008/>`_ and
-`PEP 257 <http://legacy.python.org/dev/peps/pep-0257/>`_ and
+Have a look at `PEP 8 <https://www.python.org/dev/peps/pep-0008/>`_ and
+`PEP 257 <https://www.python.org/dev/peps/pep-0257/>`_ and
 probably also at the `Google Python Style Guide
 <https://google.github.io/styleguide/pyguide.html>`_.
 
@@ -57,7 +57,7 @@ License
 -------
 
 There are many possibilities, one of them is the
-`MIT license <http://opensource.org/licenses/mit-license.php>`_::
+`MIT license <https://opensource.org/licenses/mit-license.php>`_::
 
   Copyright (c) <year> <copyright holders>
   

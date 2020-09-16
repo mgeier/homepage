@@ -5,4 +5,4 @@ Open Education
 
   This is, much like the fabric of space-time, and growing up, work-in-progress.
 
-http://www.oeconsortium.org/
+https://www.oeconsortium.org/

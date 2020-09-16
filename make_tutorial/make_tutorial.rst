@@ -21,7 +21,7 @@ Make Tutorial
    It may be a reasonably usable tool for this and many people use and
    recommend it, e.g.
 
-   * http://robjhyndman.com/hyndsight/makefiles/
+   * https://robjhyndman.com/hyndsight/makefiles/
    * http://kbroman.org/minimal_make/
    * http://sidenote.hu/2012/02/04/makefile-for-large-latex-projects/
 

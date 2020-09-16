@@ -119,7 +119,7 @@ file and close the editor, the commit will actually be created.
 A commit message should have a short (no more than 50 characters) one-line
 summary in the first line, then a blank line and then a more detailed
 description. Have a look at this `note about commit messages
-<http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>`_.
+<https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>`_.
 
 Remember, a commit is a local operation in Git, so nothing was transferred to
 the server yet.
@@ -210,7 +210,7 @@ On *macOS*, you can use *FileMerge* (you need to have *Xcode* installed)::
 
     git config --global merge.tool opendiff
 
-.. _Vim: http://www.vim.org/
+.. _Vim: https://www.vim.org/
 .. _fugitive: https://github.com/tpope/vim-fugitive/
 
 .. todo:: more advertisement for Vim and fugitive!
@@ -282,7 +282,7 @@ GUIs for Git
 
 There are many GUIs for Git to choose from; I personally like *gitg* (available
 as Debian package with the same name) most but there are many more available
-(see http://git-scm.com/downloads/guis).
+(see https://git-scm.com/downloads/guis).
 
 Getting Help
 ------------
@@ -324,7 +324,7 @@ You'll get something like this:
 Git and Subversion (SVN)
 ------------------------
 
-See http://git-scm.com/book/en/Git-and-Other-Systems-Git-and-Subversion
+See https://git-scm.com/book/en/Git-and-Other-Systems-Git-and-Subversion
 
 Public Git Hosting Sites
 ------------------------
@@ -335,28 +335,28 @@ https://git.wiki.kernel.org/index.php/GitHosting
 More Documentation/Links
 ------------------------
 
-* The Pro Git Book (CC license): http://book.git-scm.com/
-* Understanding Git Conceptually: http://www.eecs.harvard.edu/~cduan/technical/git/
+* The Pro Git Book (CC license): https://book.git-scm.com/
+* Understanding Git Conceptually: https://www.sbf5.com/~cduan/technical/git/
 * Git Quick Reference: http://jonas.nitro.dk/git/quick-reference.html
-* Git Immersion: http://gitimmersion.com/
+* Git Immersion: https://gitimmersion.com/
 * ...
 
 There are many different strategies and methodologies how to use Git, just have a look with your favorite search engine or try this:
 
-* http://nvie.com/posts/a-successful-git-branching-model/
-* http://betterexplained.com/articles/aha-moments-when-learning-git/
+* https://nvie.com/posts/a-successful-git-branching-model/
+* https://betterexplained.com/articles/aha-moments-when-learning-git/
 * http://sethrobertson.github.io/GitBestPractices/
 * ...
 
 There are also some nice videos:
 
 * beginner
-    * http://www.youtube.com/watch?v=4XpnKHJAok8
-    * http://www.youtube.com/watch?v=ZDR433b0HJY
-    * http://www.youtube.com/watch?v=GYnOwPl8yCE
+    * https://www.youtube.com/watch?v=4XpnKHJAok8
+    * https://www.youtube.com/watch?v=ZDR433b0HJY
+    * https://www.youtube.com/watch?v=GYnOwPl8yCE
 
 * intermediate
-    * http://www.youtube.com/watch?v=Z2ZL14WWEJI
+    * https://www.youtube.com/watch?v=Z2ZL14WWEJI
 
 TODO
 ----

@@ -4,7 +4,7 @@ Getting Started with Sphinx and readthedocs.org
 * new github repo
 * readthedocs.org account
 * install sphinx (debian package?)
-* https://read-the-docs.readthedocs.org/en/latest/getting_started.html
+* https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
 * sphinx-quickstart
 * edit ``index.rst``
 * run ``make html`` to check if it works
@@ -15,7 +15,7 @@ Getting Started with Sphinx and readthedocs.org
 Links
 -----
 
-Code: http://sphinx-doc.org/markup/code.html
+Code: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#showing-code-examples
 
 TODO
 ----

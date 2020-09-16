@@ -15,9 +15,9 @@ because it is part of MacTeX_ and MikTeX_ and it is bundled with many Linux
 Distributions.
 
 .. _Latexmk: https://personal.psu.edu/~jcc8/software/latexmk/
-.. _Perl: http://www.perl.org/
+.. _Perl: https://www.perl.org/
 .. _MacTeX: http://www.tug.org/mactex/
-.. _MikTeX: http://miktex.org/
+.. _MikTeX: https://miktex.org/
 
 Installation
 ------------
@@ -153,7 +153,7 @@ With this selected and with ``-synctex=1`` in your LaTeX call, you can
 Shift-⌘-click in the preview window and jump directly to the corresponding
 source text in your editor!
 
-.. _Skim: http://skim-app.sourceforge.net/
+.. _Skim: https://skim-app.sourceforge.io/
 
 On *Windows*, you can use the system-wide config file ``C:\latexmk\LatexMk``
 (if the file doesn't exist yet, just create a new text file with this name).

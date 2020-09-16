@@ -15,7 +15,7 @@ Other collections of similar information:
 
  * https://github.com/INRIA/awesome-open-science-software
 
- * https://livingthing.danmackinlay.name/open_notebook_science.html
+ * https://danmackinlay.name/notebook/reproducible_research
 
 
 Definitions
@@ -100,11 +100,11 @@ Definition by `Wikipedia <https://en.wikipedia.org/wiki/Open_access>`__:
 
 .. todo:: online material as supplement to traditional publications
 
-.. todo:: http://en.wikipedia.org/wiki/Reproducibility
+.. todo:: https://en.wikipedia.org/wiki/Reproducibility
 
-.. todo:: http://en.wikipedia.org/wiki/Open_research
+.. todo:: https://en.wikipedia.org/wiki/Open_research
 
-`Vandewalle et al. <http://dx.doi.org/10.1109/MSP.2009.932122>`_ distinguish six
+`Vandewalle et al. <https://doi.org/10.1109/MSP.2009.932122>`_ distinguish six
 degrees of reproducibility:
 
   5. The results can be easily reproduced by an independent researcher with at
@@ -131,7 +131,7 @@ specifications and the overly vague effort metrics), I like the general idea.
 Replicability vs. Reproducibility
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Great overview: `Language Log: Replicability vs. reproducibility — or is it the other way around? <http://languagelog.ldc.upenn.edu/nll/?p=21956>`__
+Great overview: `Language Log: Replicability vs. reproducibility — or is it the other way around? <https://languagelog.ldc.upenn.edu/nll/?p=21956>`__
 
 `Wikipedia <https://en.wikipedia.org/wiki/Reproducibility>`__ thinks it's the
 same:
@@ -161,7 +161,7 @@ also claims that they are different, but uses slightly different definitions:
   made available to others for verifying published results and conducting
   alternative analyses.
 
-`Victoria Stodden <http://magazine.amstat.org/blog/2011/07/01/trust-your-science/>`__
+`Victoria Stodden <https://magazine.amstat.org/blog/2011/07/01/trust-your-science/>`__
 defines them slightly differently (and throws in a third concept --
 "repeatability"):
 
@@ -239,7 +239,7 @@ specify a license
 
   Try these links to help you choose an appropriate license:
 
-  * http://creativecommons.org/choose/
+  * https://creativecommons.org/choose/
   * http://three.org/openart/license_chooser/
 
   For more details, have a look there: https://tldrlegal.com/.
@@ -353,17 +353,17 @@ Python
    elements as beauty, versatility, extremely useful standard library and
    tons of third-party stuff.
 
-   For more information, watch this: http://youtu.be/vt0Y39eMvpI
+   For more information, watch this: https://youtu.be/vt0Y39eMvpI
 
 Scientific Python (SciPy)
     https://scipy.org/
 
     This is a collection of many software projects:
-    `NumPy <https://www.numpy.org/>`_,
+    `NumPy <https://numpy.org/>`_,
     `SciPy <https://scipy.org/scipylib/>`_,
     `matplotlib <https://matplotlib.org/>`_,
     `IPython <https://ipython.org/>`_,
-    `SymPy <https://sympy.org/>`_,
+    `SymPy <https://www.sympy.org/>`_,
     `pandas <https://pandas.pydata.org/>`_,
     `Mayavi <https://code.enthought.com/projects/mayavi/>`_,
     `PyTables <https://www.pytables.org/>`_,
@@ -393,10 +393,10 @@ R
     http://www.r-project.org/
 
 Julia
-    http://julialang.org/
+    https://julialang.org/
 
 Sage
-    http://sagemath.org/
+    https://www.sagemath.org/
 
 Publication Tools
 -----------------
@@ -406,16 +406,16 @@ IPython
 
 IJulia
     https://github.com/JuliaLang/IJulia.jl (`example notebook
-    <http://nbviewer.ipython.org/url/jdj.mit.edu/~stevenj/IJulia%20Preview.ipynb>`_)
+    <https://nbviewer.ipython.org/url/jdj.mit.edu/~stevenj/IJulia%20Preview.ipynb>`_)
 
 VisTrails
     https://www.vistrails.org/index.php/Main_Page
 
 Sweave
-    http://en.wikipedia.org/wiki/Sweave
+    https://en.wikipedia.org/wiki/Sweave
 
 knitr
-    http://yihui.name/knitr/
+    https://yihui.org/knitr/
 
 Pweave
     http://mpastell.com/pweave/
@@ -431,37 +431,37 @@ Online Services
 ---------------
 
 IPython Notebook Viewer
-    http://nbviewer.ipython.org/
+    https://nbviewer.ipython.org/
 
 Binder (Turn a GitHub repo into a collection of interactive notebooks)
-    http://mybinder.org/
+    https://mybinder.org/
 
 Github
-    http://github.com/
+    https://github.com/
 
 Bitbucket (free unlimited accounts for academic users)
-    http://bitbucket.org/
+    https://bitbucket.org/
 
 figshare
-    http://figshare.com/, `connecting Github and figshare <http://figshare.com/blog/Working_with_Github_and_Mozilla_to_enable_Code_as_a_Research_Output_/117>`_
+    https://figshare.com/, `connecting Github and figshare <https://figshare.com/blog/Working_with_Github_and_Mozilla_to_enable_Code_as_a_Research_Output_/117>`_
 
 zenodo
-    http://zenodo.org/
+    https://zenodo.org/
 
 ORCID
-    http://orcid.org/
+    https://orcid.org/
 
 crossref
-    http://crossref.org/
+    https://www.crossref.org/
 
 DataCite
-    http://www.datacite.org/
+    https://datacite.org/
 
 my experiment
-    http://www.myexperiment.org/
+    https://www.myexperiment.org/
 
 re3data (Registry of Research Data Repositories)
-    http://www.re3data.org/
+    https://www.re3data.org/
 
 RADAR - Research Data Repository
     https://www.radar-service.eu/en
@@ -489,13 +489,13 @@ Journals
 --------
 
 F1000Research (life sciences)
-    http://f1000research.com/
+    https://f1000research.com/
 
-Scientific Data - nature.com (launching in May 2014)
-    http://www.nature.com/scientificdata/
+Scientific Data - nature.com
+    https://www.nature.com/sdata/
 
 DRYAD
-    http://datadryad.org/
+    https://datadryad.org/
 
 The ReScience Journal
     http://rescience.github.io/
@@ -505,31 +505,31 @@ Publications
 
 Patrick Vandewalle, Jelena Kovačević, Martin Vetterli,
 `Reproducible Research in Signal Processing
-<http://dx.doi.org/10.1109/MSP.2009.932122>`_,
+<https://doi.org/10.1109/MSP.2009.932122>`_,
 IEEE Signal Processing Magazine Volume 26, Issue 3, 2009.
 
 Robert Gentleman, Duncan Temple Lang,
 `Statistical Analyses and Reproducible Research
-<http://dx.doi.org/10.1198/106186007X178663>`_,
+<https://doi.org/10.1198/106186007X178663>`_,
 Journal of Computational and Graphical Statistics Volume 16, Issue 1, 2007.
 
 Bruce G. Charlton,
 `Peer usage versus peer review
-<http://dx.doi.org/10.1136/bmj.39304.581574.94>`_,
+<https://doi.org/10.1136/bmj.39304.581574.94>`_,
 BMJ Volume 335, Issue 7617, 2007.
 
 Arturo Casadevall, Ferric C. Fang,
-`Reproducible Science <http://dx.doi.org/10.1128/IAI.00908-10>`_,
+`Reproducible Science <https://doi.org/10.1128/IAI.00908-10>`_,
 Infection and Immunity Volume 78, Issue 12, 2010.
 
 Jonathan B. Buckheit, David L. Donoho,
 `WaveLab and Reproducible Research
-<http://dx.doi.org/10.1007/978-1-4612-2544-7_5>`_,
-in `Wavelets and Statistics <http://dx.doi.org/10.1007/978-1-4612-2544-7>`_,
+<https://doi.org/10.1007/978-1-4612-2544-7_5>`_,
+in `Wavelets and Statistics <https://doi.org/10.1007/978-1-4612-2544-7>`_,
 Springer, 1995.
 
 Darrel C. Ince, Leslie Hatton, John Graham-Cumming,
-`The Case for Open Computer Programs <http://dx.doi.org/10.1038/nature10836>`_,
+`The Case for Open Computer Programs <https://doi.org/10.1038/nature10836>`_,
 Nature Volume 482, 2012.
 
 Nature special `Challenges in Irreproducible Research
@@ -537,20 +537,25 @@ Nature special `Challenges in Irreproducible Research
 
 Fernando Pérez, Brian E. Granger, John D. Hunter,
 `Python: An Ecosystem for Scientific Computing
-<http://dx.doi.org/10.1109/MCSE.2010.119>`_,
+<https://doi.org/10.1109/MCSE.2010.119>`_,
 Computing in Science Engineering, Volume 13, Issue 2, 2011.
 
 Peter Suber,
-`Open Access <https://mitpress.mit.edu/index.php?q=books/open-access>`_,
+`Open Access <https://mitpress.mit.edu/books/open-access>`_,
 MIT Press, 2012.
 
 Peter Suber,
 `Gratis and libre open access <https://dash.harvard.edu/bitstream/handle/1/4322580/suber_oagratis.html>`__,
 SPARC Open Access Newsletter, issue #124, 2008.
 
+Peter Suber,
+`Knowledge Unbound: Selected Writings on Open Access, 2002–2011
+<http://library.oapen.org/handle/20.500.12657/26045>`_,
+MIT Press, 2016.
+
 John P. A. Ioannidis,
 `Why Most Published Research Findings Are False
-<http://dx.doi.org/10.1371/journal.pmed.0020124>`_,
+<https://doi.org/10.1371/journal.pmed.0020124>`_,
 PLoS Med 2(8): e124. doi:10.1371/journal.pmed.0020124, 2005.
 
 Detailed comment to the above:
@@ -564,32 +569,32 @@ Learning Workshop at the 26th ICML, 2009.
 
 Ian P. Gent,
 `The Recomputation Manifesto
-<http://arxiv.org/abs/1304.3674v1>`__,
+<https://arxiv.org/abs/1304.3674v1>`__,
 Unpublished position paper, Version 1.9479, 2013.
 
 Michael Woelfle, Piero Olliaro, Matthew H. Todd,
-`Open science is a research accelerator <http://dx.doi.org/10.1038/nchem.1149>`__,
+`Open science is a research accelerator <https://doi.org/10.1038/nchem.1149>`__,
 Nature Chemistry, Volume 3, Issue 10, 2011.
 
 Radovan Vrana,
-`Open science, open access and open educational resources: Challenges and opportunities <http://dx.doi.org/10.1109/MIPRO.2015.7160399>`__,
+`Open science, open access and open educational resources: Challenges and opportunities <https://doi.org/10.1109/MIPRO.2015.7160399>`__,
 International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2015.
 
 Yale Law School Roundtable on Data and Code Sharing,
-`Reproducible Research: Addressing the Need for Data and Code Sharing in Computational Science <http://dx.doi.org/10.1109/MCSE.2010.113>`__,
+`Reproducible Research: Addressing the Need for Data and Code Sharing in Computational Science <https://doi.org/10.1109/MCSE.2010.113>`__,
 Computing in Science & Engineering, Volume 12, Issue 5, 2010.
 
 Toronto International Data Release Workshop Authors,
-`Prepublication Data Sharing <http://dx.doi.org/10.1038/461168a>`__,
+`Prepublication Data Sharing <https://doi.org/10.1038/461168a>`__,
 Nature 461, no. 7261, 2009.
 
 Rinze Benedictus, Frank Miedema, and Mark W. J. Ferguson,
-`Fewer Numbers, Better Science <http://dx.doi.org/10.1038/538453a>`__,
+`Fewer Numbers, Better Science <https://doi.org/10.1038/538453a>`__,
 Nature News, Volume 538, Issue 7626, 2016.
 
 J. Wilsdon et al.,
 `The Metric Tide: Report of the Independent Review of the Role of 
-Metrics in Research Assessment and Management <http://dx.doi.org/10.13140/RG.2.1.4929.1363>`__,
+Metrics in Research Assessment and Management <https://doi.org/10.13140/RG.2.1.4929.1363>`__,
 2015.
 
 Barak A. Cohen,
@@ -634,26 +639,26 @@ Proceedings of the National Academy of Sciences,
 Links
 -----
 
-Coursera course about *Reproducible Research* (starting on May 5th 2014)
-    https://www.coursera.org/course/repdata
+Coursera course about *Reproducible Research*
+    https://www.coursera.org/learn/reproducible-research
 
 results may vary (slides for keynote at ISMB/ECCB 2013)
-    http://www.slideshare.net/carolegoble/ismb2013-keynotecleangoble
+    https://www.slideshare.net/carolegoble/ismb2013-keynotecleangoble
 
 Reproducibility in Computational Science (slides)
-    http://www.stanford.edu/~vcs/talks/UMN-Oct102013-STODDEN.pdf
+    https://web.stanford.edu/~vcs/talks/UMN-Oct102013-STODDEN.pdf
 
 The Role of Data Repositories in Reproducible Research:
-    http://isps.yale.edu/news/blog/2013/07/the-role-of-data-repositories-in-reproducible-research
+    https://isps.yale.edu/news/blog/2013/07/the-role-of-data-repositories-in-reproducible-research
 
 #solo13lego: Research Roles Through Lego
-    http://sophiekershaw.wordpress.com/2013/11/14/research-roles-through-lego/
+    https://sophiekershaw.wordpress.com/2013/11/14/research-roles-through-lego/
 
 Reproducibility: An important altmetric
     http://altmetrics.org/altmetrics12/iorns/
 
 The Truth Wears Off: An odd twist in the scientific method
-    http://www.newyorker.com/reporting/2010/12/13/101213fa_fact_lehrer
+    https://www.newyorker.com/magazine/2010/12/13/the-truth-wears-off
 
 Report reveals missteps in Duke cancer trial review
     http://blogs.nature.com/news/2011/01/report_reveals_missteps_in_ini.html
@@ -662,22 +667,22 @@ Reproducible Research in Signal/Image Processing
     http://reproducibleresearch.net/
 
 European Commission: *Towards better access to scientific information*
-    http://www.eesc.europa.eu/?i=portal.en.int-opinions.24976 (`PDF <http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0401:FIN:EN:PDF>`_)
+    https://www.eesc.europa.eu/?i=portal.en.int-opinions.24976 (`PDF <https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0401:FIN:EN:PDF>`_)
 
 Preserving Research: The top online archives for storing your unpublished findings
-    http://www.the-scientist.com/?articles.view/articleNo/36695/title/Preserving-Research/
+    https://www.the-scientist.com/careers/preserving-research-38930
 
 Post-Publication Peer Review Mainstreamed
-    http://www.the-scientist.com/?articles.view/articleNo/37969/title/Post-Publication-Peer-Review-Mainstreamed/
+    https://www.the-scientist.com/daily-news/post-publication-peer-review-mainstreamed-38529
 
 Offene Wissenschaft (de)
     http://www.offene-wissenschaft.de/
 
 mozilla Science Lab
-    http://mozillascience.org/
+    https://wiki.mozilla.org/ScienceLab
 
 Panton Principles
-    http://pantonprinciples.org/
+    https://pantonprinciples.org/
 
 The Open Definition
     http://opendefinition.org/
@@ -686,19 +691,19 @@ Guide to Open Data Licensing
     http://opendefinition.org/guide/data/
 
 CC0
-    http://creativecommons.org/publicdomain/zero/1.0/
+    https://creativecommons.org/publicdomain/zero/1.0/
 
 Joint Declaration of Data Citation Principles
-    https://www.force11.org/node/4769
+    https://doi.org/10.25490/a97f-egyk
 
 Madagascar
-    http://reproducibility.org/
+    http://www.ahay.org/wiki/Main_Page
 
 Reproducibility Initiative
     http://reproducibilityinitiative.org/
 
 The Need for Openness in Data Journalism
-    http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb
+    https://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb
 
 Guidelines for Open Educational Resources (OER) in Higher Education
     http://www.unesco.org/new/en/communication-and-information/resources/publications-and-communication-materials/publications/full-list/guidelines-for-open-educational-resources-oer-in-higher-education/
@@ -711,32 +716,32 @@ Scientific Python Lectures:
     https://github.com/jrjohansson/scientific-python-lectures
 
 Research Objects
-    http://en.wikipedia.org/wiki/Research_Objects
+    https://en.wikipedia.org/wiki/Research_Objects
 
 An efficient workflow for reproducible science (SciPy 2013)
     https://youtu.be/Y-XFNg0QS14
 
 Open Glossary
-    http://blogs.egu.eu/network/palaeoblog/files/2015/02/OpenGlossary1.pdf
+    https://blogs.egu.eu/network/palaeoblog/files/2015/02/OpenGlossary1.pdf
 
 Open Access: Berlin Declaration
-    http://openaccess.mpg.de/Berlin-Declaration,
+    https://openaccess.mpg.de/Berlin-Declaration,
     `Wikipedia article <https://en.wikipedia.org/wiki/Berlin_Declaration_on_Open_Access_to_Knowledge_in_the_Sciences_and_Humanities>`__
 
 Reproducibility in Code and Science
     https://web.archive.org/web/20170903071534/http://justingosses.com/reproducibility/
 
 The 7 biggest problems facing science, according to 270 scientists
-    http://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process
+    https://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process
 
 Journal of Articles in Support of the Null Hypothesis
-    http://www.jasnh.com/
+    https://www.jasnh.com/
 
 The Transparency and Openness Promotion Guidelines
-    https://cos.io/top/
+    https://www.cos.io/initiatives/top-guidelines
 
 épisciences
-    http://episciences.org/
+    https://www.episciences.org/
 
 The open archive HAL
     https://hal.archives-ouvertes.fr/
@@ -787,9 +792,9 @@ An unhealthy obsession with p-values is ruining science
     https://www.vox.com/2016/3/15/11225162/p-value-simple-definition-hacking
 
 The Irreproducibility Crisis of Modern Science: Causes, Consequences, and the Road to Reform
-    https://www.nas.org/projects/irreproducibility_report
+    https://www.nas.org/reports/the-irreproducibility-crisis-of-modern-science
 
-    https://www.nas.org/images/documents/NAS_irreproducibilityReport.pdf
+    https://www.nas.org/storage/app/media/Reports/Irreproducibility%20Crisis%20Report/NAS_irreproducibilityReport.pdf
 
 Why I've lost faith in p values
     https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values

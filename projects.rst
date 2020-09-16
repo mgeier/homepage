@@ -212,7 +212,7 @@ for the exercises accompanying the lecture "Acoustics for Communications"
 `Institute of Communications Engineering/Faculty of Computer Science
 and Electrical Engineering/University of Rostock`__.
 
-__ http://www.int.uni-rostock.de/
+__ https://www.int.uni-rostock.de/
 
 On ``nbviewer``:
 https://nbviewer.jupyter.org/github/spatialaudio/communication-acoustics-exercises/blob/master/index.ipynb
