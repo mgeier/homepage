@@ -807,5 +807,8 @@ FAIR Principles (Findable, Accessible, Interoperable, Re-usable)
 
    https://www.force11.org/fairprinciples
 
+The Turing Way: Guide for Reproducible Research
+   https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html
+
 
 .. vim:textwidth=80:spell
