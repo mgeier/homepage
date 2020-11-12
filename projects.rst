@@ -122,6 +122,14 @@ https://jupyter-format.readthedocs.io/
 :raw-html:`<a class="github-button" href="https://github.com/mgeier/jupyter-format" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/jupyter-format on GitHub">mgeier/jupyter-format</a>`
 
 
+A Reusable Slice of References for Rust
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+https://docs.rs/rsor/
+
+:raw-html:`<a class="github-button" href="https://github.com/mgeier/rsor" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/rsor on GitHub">mgeier/rsor</a>`
+
+
 Rust FFI bindings to the ``libFLAC`` library
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -137,6 +145,18 @@ https://docs.rs/minimp3_ex-sys/
 
 :raw-html:`<a class="github-button" href="https://github.com/mgeier/minimp3_ex-sys" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/minimp3_ex-sys on GitHub">mgeier/minimp3_ex-sys</a>`
 
+
+Work In Progress: Audio Scene Description Format (ASDF)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Documentation/specification
+    https://AudioSceneDescriptionFormat.readthedocs.io/
+
+Reference implementation (implemented in Rust)
+    https://github.com/AudioSceneDescriptionFormat/asdf-rust
+
+Documentation about splines (some of which are used in the ASDF)
+    https://splines.readthedocs.io/
 
 Collaborations
 --------------
@@ -198,6 +218,14 @@ On ``nbviewer``:
 https://nbviewer.jupyter.org/github/spatialaudio/communication-acoustics-exercises/blob/master/index.ipynb
 
 :raw-html:`<a class="github-button" href="https://github.com/spatialaudio/communication-acoustics-exercises" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/communication-acoustics-exercises on GitHub">spatialaudio/communication-acoustics-exercises</a>`
+
+
+Real-Time Ring Buffer for Rust
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A wait-free single-producer single-consumer ring buffer.
+
+:raw-html:`<a class="github-button" href="https://github.com/mgeier/rtrb" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/rtrb on GitHub">mgeier/rtrb</a>`
 
 
 Minor Contributions
