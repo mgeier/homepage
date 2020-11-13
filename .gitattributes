@@ -1,0 +1,4 @@
+/Makefile linguist-vendored
+/conf.py linguist-documentation
+/_templates/** linguist-documentation
+*.rst linguist-detectable
