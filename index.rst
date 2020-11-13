@@ -4,7 +4,6 @@ Welcome!
 This is some stuff I wrote/collected:
 
 .. toctree::
-   :maxdepth: 2
 
    git
    git-jupyter
