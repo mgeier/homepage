@@ -87,9 +87,26 @@ or all your notebooks are "clean" (i.e. stored without outputs).
 
       git push --set-upstream origin dev
 
+#. If you already have some notebooks, you can execute them now in the
+   ``master`` branch::
+
+      git checkout master
+
+   You can execute the notebooks one by one,
+   or all at once, as described in `Executing All Notebooks`_.
+   Once all the notebooks you want to execute are executed,
+   commit the changes to the ``master`` branch::
+
+      git commit -a -m "Execute notebooks"
+
+   And if everything looks OK, you can push the new commit to the server::
+
+      git push
+
 That's it!
 
-Now you can continue with the section `Making a Change`_.
+When you want to start changing existing notebooks,
+continue with the section `Making a Change`_.
 
 
 Getting Started with Pre-executed Notebooks
