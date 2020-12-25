@@ -38,7 +38,7 @@ On *macOS* with MacTeX_:
 On *Windows* with MikTeX_:
 
    * You probably have to install Perl_,
-     e.g. from here: http://strawberryperl.com/.
+     e.g. from here: https://strawberryperl.com/.
 
    * If it's not installed already, open the MikTeX Package Manager and install
      the ``latexmk`` package.

@@ -147,7 +147,7 @@ same:
   reproducibility is desirable, I contend that the impoverished version,
   replicability, is one not worth having.
 
-`Roger D. Peng <http://biostatistics.oxfordjournals.org/content/10/3/405.full>`__
+`Roger D. Peng <https://doi.org/10.1093/biostatistics/kxp014>`__
 also claims that they are different, but uses slightly different definitions:
 
   The replication of scientific findings using independent investigators,
@@ -365,7 +365,7 @@ Scientific Python (SciPy)
     `IPython <https://ipython.org/>`_,
     `SymPy <https://www.sympy.org/>`_,
     `pandas <https://pandas.pydata.org/>`_,
-    `Mayavi <https://code.enthought.com/projects/mayavi/>`_,
+    `Mayavi <https://docs.enthought.com/mayavi/mayavi/>`_,
     `PyTables <https://www.pytables.org/>`_,
     and many more ...
 
@@ -550,7 +550,7 @@ SPARC Open Access Newsletter, issue #124, 2008.
 
 Peter Suber,
 `Knowledge Unbound: Selected Writings on Open Access, 2002–2011
-<http://library.oapen.org/handle/20.500.12657/26045>`_,
+<https://library.oapen.org/handle/20.500.12657/26045>`_,
 MIT Press, 2016.
 
 John P. A. Ioannidis,
@@ -655,7 +655,7 @@ The Role of Data Repositories in Reproducible Research:
     https://sophiekershaw.wordpress.com/2013/11/14/research-roles-through-lego/
 
 Reproducibility: An important altmetric
-    http://altmetrics.org/altmetrics12/iorns/
+    ``http://altmetrics.org/altmetrics12/iorns/``
 
 The Truth Wears Off: An odd twist in the scientific method
     https://www.newyorker.com/magazine/2010/12/13/the-truth-wears-off
@@ -770,11 +770,8 @@ Vienna Principles
 sciencecodemanifesto.org
     https://web.archive.org/web/20160218093215/http://sciencecodemanifesto.org/
 
-Reproducible Research Tools
-    https://old-www.stat.wisc.edu/reproducible
-
 Peer Reviewers' Openness Initiative
-    https://opennessinitiative.org/
+    https://www.opennessinitiative.org/
 
 Initiative for Open Citations
     https://i4oc.org/

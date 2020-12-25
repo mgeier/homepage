@@ -324,7 +324,7 @@ You'll get something like this:
 Git and Subversion (SVN)
 ------------------------
 
-See https://git-scm.com/book/en/Git-and-Other-Systems-Git-and-Subversion
+See https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client#_git_svn
 
 Public Git Hosting Sites
 ------------------------
