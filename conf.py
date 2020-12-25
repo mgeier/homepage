@@ -32,6 +32,18 @@ nbsphinx_prolog = r"""
     </div>
 """
 
+linkcheck_ignore = [
+    # [SSL: CERTIFICATE_VERIFY_FAILED]: unable to get local issuer certificate
+    'https://www.vistrails.org',
+    'https://scipy.org/',
+
+    # ConnectionResetError(104, ...)
+    'https://doi.org/10.1093/biostatistics',
+
+    # [Errno 110] Connection timed out
+    'http://www.soundfieldsynthesis.org',
+]
+
 # -- Get version information and date from Git ----------------------------
 
 try:
