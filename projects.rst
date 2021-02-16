@@ -175,6 +175,8 @@ http://spatialaudio.net/ssr/
 The multi-threaded signal-processing core of the SSR is provided separately
 as a set of re-usable C++ libraries called "Audio Processing Framework":
 
+http://AudioProcessingFramework.github.io/
+
 :raw-html:`<a class="github-button" href="https://github.com/AudioProcessingFramework/apf" data-icon="octicon-star" data-show-count="true" aria-label="Star AudioProcessingFramework/apf on GitHub">AudioProcessingFramework/apf</a>`
 
 ``sfs`` Module for Python
