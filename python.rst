@@ -48,7 +48,7 @@ https://python-packaging-user-guide.readthedocs.io/
 
 https://web.archive.org/web/20140921105456/https://caremad.io/blog/setup-vs-requirement/
 
-https://manikos.github.io/a-tour-on-python-packaging
+https://web.archive.org/web/20201214202421/https://manikos.github.io/a-tour-on-python-packaging
 
 https://jwodder.github.io/kbits/posts/pypkg-mistakes/
 
