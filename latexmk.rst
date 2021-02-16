@@ -23,11 +23,11 @@ Installation
 ------------
 
 On *Linux*:
-
    * Perl_ should be already installed.
    * You may have to install a package called ``latexmk`` or similar.
 
 On *macOS* with MacTeX_:
+   .. rst-class:: compact
 
    * It's probably already installed.
    * If not, open "TeX Live Utility", search for "latexmk" and install it.
@@ -36,10 +36,8 @@ On *macOS* with MacTeX_:
         sudo tlmgr install latexmk
 
 On *Windows* with MikTeX_:
-
    * You probably have to install Perl_,
      e.g. from here: https://strawberryperl.com/.
-
    * If it's not installed already, open the MikTeX Package Manager and install
      the ``latexmk`` package.
 
