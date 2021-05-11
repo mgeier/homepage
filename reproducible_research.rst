@@ -646,7 +646,7 @@ results may vary (slides for keynote at ISMB/ECCB 2013)
     https://www.slideshare.net/carolegoble/ismb2013-keynotecleangoble
 
 Reproducibility in Computational Science (slides)
-    https://web.stanford.edu/~vcs/talks/UMN-Oct102013-STODDEN.pdf
+    ``https://web.stanford.edu/~vcs/talks/UMN-Oct102013-STODDEN.pdf``
 
 The Role of Data Repositories in Reproducible Research:
     https://isps.yale.edu/news/blog/2013/07/the-role-of-data-repositories-in-reproducible-research
