@@ -61,7 +61,7 @@ except Exception:
 html_theme = 'insipid'
 html_title = project
 
-html_add_permalinks = '\N{SECTION SIGN}'
+html_permalinks_icon = '\N{SECTION SIGN}'
 html_favicon = 'favicon.svg'
 html_copy_source = False
 html_use_index = False
