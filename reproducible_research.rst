@@ -131,7 +131,7 @@ specifications and the overly vague effort metrics), I like the general idea.
 Replicability vs. Reproducibility
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Great overview: `Language Log: Replicability vs. reproducibility — or is it the other way around? <https://languagelog.ldc.upenn.edu/nll/?p=21956>`__
+Great overview: `Language Log: Replicability vs. reproducibility — or is it the other way around? <https://web.archive.org/web/20210302204128/https://languagelog.ldc.upenn.edu/nll/?p=21956>`__
 
 `Wikipedia <https://en.wikipedia.org/wiki/Reproducibility>`__ thinks it's the
 same:
