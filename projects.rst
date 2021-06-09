@@ -306,3 +306,14 @@ Scientific Python Fundamentals
 * https://github.com/matplotlib/matplotlib
   -- `pull requests <https://github.com/matplotlib/matplotlib/pulls?q=is:pr+author:mgeier>`__
   -- `issues <https://github.com/matplotlib/matplotlib/issues?q=is:issue+author:mgeier>`__
+
+
+Rust-Related
+^^^^^^^^^^^^
+
+* https://github.com/rust-lang/rust
+  -- `pull requests <https://github.com/rust-lang/rust/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/rust-lang/rust/issues?q=is:issue+author:mgeier>`__
+* https://github.com/lu-zero/cargo-c
+  -- `pull requests <https://github.com/lu-zero/cargo-c/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/lu-zero/cargo-c/issues?q=is:issue+author:mgeier>`__
