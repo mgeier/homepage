@@ -337,7 +337,7 @@ More Documentation/Links
 
 * The Pro Git Book (CC license): https://book.git-scm.com/
 * Understanding Git Conceptually: https://www.sbf5.com/~cduan/technical/git/
-* Git Quick Reference: http://jonas.nitro.dk/git/quick-reference.html
+* Git Quick Reference: ``http://jonas.nitro.dk/git/quick-reference.html``
 * Git Immersion: https://gitimmersion.com/
 * ...
 
