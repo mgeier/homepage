@@ -421,11 +421,11 @@ Pweave
     http://mpastell.com/pweave/
 
 ActivePapers
-    https://www.activepapers.org/
+    https://activepapers.github.io/
         * active_papers (JVM):
-          https://www.activepapers.org/jvm-edition/
+          https://activepapers.github.io/jvm-edition/
         * activepapers-python (Python):
-          https://www.activepapers.org/python-edition/
+          https://activepapers.github.io/python-edition/
 
 Online Services
 ---------------
