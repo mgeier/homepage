@@ -26,6 +26,13 @@ https://python-sounddevice.readthedocs.io/
 
 :raw-html:`<a class="github-button" href="https://github.com/spatialaudio/python-sounddevice" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/python-sounddevice on GitHub">spatialaudio/python-sounddevice</a>`
 
+For easier installation,
+I provide a pre-compiled PortAudio library for macOS and Windows:
+
+https://github.com/spatialaudio/portaudio-binaries
+
+:raw-html:`<a class="github-button" href="https://github.com/spatialaudio/portaudio-binaries" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/portaudio-binaries on GitHub">spatialaudio/portaudio-binaries</a>`
+
 
 ``rtmixer`` Module for Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
