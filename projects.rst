@@ -251,6 +251,10 @@ Audio-Related
   -- `pull requests <https://github.com/hoene/libmysofa/pulls?q=is:pr+author:mgeier>`__
   -- `issues <https://github.com/hoene/libmysofa/issues?q=is:issue+author:mgeier>`__
 
+* https://github.com/lieff/minimp3
+  -- `pull requests <https://github.com/lieff/minimp3/pulls?q=is:pr+author:mgeier>`__
+  -- `issues <https://github.com/lieff/minimp3/issues?q=is:issue+author:mgeier>`__
+
 
 Sphinx and Related
 ^^^^^^^^^^^^^^^^^^
