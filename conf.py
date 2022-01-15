@@ -42,6 +42,9 @@ linkcheck_ignore = [
 
     # [Errno 110] Connection timed out
     'http://www.soundfieldsynthesis.org',
+
+    # 500 Server Error: Internal Server Error for url:
+    'http://blogs.nature.com/news/2011/01/report_reveals_missteps_in_ini.html',
 ]
 
 # -- Get version information and date from Git ----------------------------
