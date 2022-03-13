@@ -29,7 +29,7 @@ CC search
    https://search.creativecommons.org/
 
 Let's CC
-   http://eng.letscc.net/
+   ``http://eng.letscc.net/``
 
 SoundCloud
    https://soundcloud.com/search/sounds
