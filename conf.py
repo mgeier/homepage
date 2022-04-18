@@ -45,6 +45,9 @@ linkcheck_ignore = [
 
     # 500 Server Error: Internal Server Error for url:
     'http://blogs.nature.com/news/2011/01/report_reveals_missteps_in_ini.html',
+
+    # 403 Client Error: Forbidden for url: https://f1000research.com/
+    'https://f1000research.com/',
 ]
 
 # -- Get version information and date from Git ----------------------------
