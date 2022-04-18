@@ -470,7 +470,7 @@ Open Science Framework
     https://osf.io/
 
 DataUp
-    http://dataup.cdlib.org/
+    ``http://dataup.cdlib.org/``
 
 Authorea
     https://authorea.com/
