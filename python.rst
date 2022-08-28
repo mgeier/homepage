@@ -19,7 +19,7 @@ probably also at the `Google Python Style Guide
 Docstrings
 ----------
 
-Use the `NumPy Docstring Standard <https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt>`_.
+Use the `NumPy Docstring Standard <https://numpydoc.readthedocs.io/en/latest/format.html#docstring-standard>`_.
 
 Testing
 -------

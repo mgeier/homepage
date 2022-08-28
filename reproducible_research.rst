@@ -706,7 +706,7 @@ The Need for Openness in Data Journalism
     https://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb
 
 Guidelines for Open Educational Resources (OER) in Higher Education
-    http://www.unesco.org/new/en/communication-and-information/resources/publications-and-communication-materials/publications/full-list/guidelines-for-open-educational-resources-oer-in-higher-education/
+    ``http://www.unesco.org/new/en/communication-and-information/resources/publications-and-communication-materials/publications/full-list/guidelines-for-open-educational-resources-oer-in-higher-education/``
     http://oasis.col.org/handle/11599/60
 
 10 Simple Rules for the Care and Feeding of Scientific Data
