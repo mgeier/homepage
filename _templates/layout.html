@@ -1,13 +1,12 @@
 {% extends "!layout.html" %}
 
-
 {% block comments %}
 {% if sourcename is defined %}
 <script src="https://utteranc.es/client.js"
         repo="mgeier/homepage"
-        issue-term="url"
+        issue-term="docname:{{ pagename|e }}"
         label="comments"
-        theme="github-light"
+        theme="preferred-color-scheme"
         crossorigin="anonymous"
         async>
 </script>
