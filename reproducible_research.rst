@@ -406,7 +406,7 @@ IPython
 
 IJulia
     https://github.com/JuliaLang/IJulia.jl (`example notebook
-    <https://nbviewer.ipython.org/url/jdj.mit.edu/~stevenj/IJulia%20Preview.ipynb>`_)
+    <https://nbviewer.jupyter.org/url/jdj.mit.edu/~stevenj/IJulia%20Preview.ipynb>`_)
 
 VisTrails
     https://www.vistrails.org/index.php/Main_Page
@@ -430,8 +430,8 @@ ActivePapers
 Online Services
 ---------------
 
-IPython Notebook Viewer
-    https://nbviewer.ipython.org/
+IPython/Jupyter Notebook Viewer
+    https://nbviewer.jupyter.org/
 
 Binder (Turn a GitHub repo into a collection of interactive notebooks)
     https://mybinder.org/
@@ -682,7 +682,7 @@ mozilla Science Lab
     https://wiki.mozilla.org/ScienceLab
 
 Panton Principles
-    https://pantonprinciples.org/
+    https://web.archive.org/web/20220921042649/https://pantonprinciples.org/
 
 The Open Definition
     http://opendefinition.org/
@@ -703,7 +703,7 @@ Reproducibility Initiative
     http://reproducibilityinitiative.org/
 
 The Need for Openness in Data Journalism
-    https://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb
+    https://nbviewer.jupyter.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb
 
 Guidelines for Open Educational Resources (OER) in Higher Education
     ``http://www.unesco.org/new/en/communication-and-information/resources/publications-and-communication-materials/publications/full-list/guidelines-for-open-educational-resources-oer-in-higher-education/``
