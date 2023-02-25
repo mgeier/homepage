@@ -48,6 +48,9 @@ linkcheck_ignore = [
 
     # 403 Client Error: Forbidden for url: https://f1000research.com/
     'https://f1000research.com/',
+
+    # 403 Client Error: Forbidden for url: https://www.researchgate.net/publication/...
+    'https://doi.org/10.13140/RG.2.1.4929.1363',
 ]
 
 # -- Get version information and date from Git ----------------------------
