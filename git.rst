@@ -366,7 +366,7 @@ I probably should write about these, too:
 * pushing and pulling branches
 * adding remotes
 * merging
-* rebasing
+* rebasing (see https://git-rebase.io/)
 * interactive rebasing
 * cherry-picking
 * ``git stash``
