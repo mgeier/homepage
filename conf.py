@@ -51,6 +51,11 @@ linkcheck_ignore = [
 
     # 403 Client Error: Forbidden for url: https://www.researchgate.net/publication/...
     'https://doi.org/10.13140/RG.2.1.4929.1363',
+
+    # Since many of those give linkcheck error but they work in the browser,
+    # let's just ignore all of them:
+    'https://doi.org/',
+    # Also, the point of DOIs is that they don't change, so we really shouldn't have to check them.
 ]
 
 # -- Get version information and date from Git ----------------------------
