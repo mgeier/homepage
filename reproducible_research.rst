@@ -545,7 +545,7 @@ Peter Suber,
 MIT Press, 2012.
 
 Peter Suber,
-`Gratis and libre open access <https://dash.harvard.edu/bitstream/handle/1/4322580/suber_oagratis.html>`__,
+`Gratis and libre open access <https://web.archive.org/web/20230810233553/https://dash.harvard.edu/bitstream/handle/1/4322580/suber_oagratis.html>`__,
 SPARC Open Access Newsletter, issue #124, 2008.
 
 Peter Suber,
