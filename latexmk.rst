@@ -14,7 +14,7 @@ And the nice thing is: you probably have it already installed on your computer,
 because it is part of MacTeX_ and MikTeX_ and it is bundled with many Linux
 Distributions.
 
-.. _Latexmk: https://personal.psu.edu/~jcc8/software/latexmk/
+.. _Latexmk: https://www.cantab.net/users/johncollins/latexmk/
 .. _Perl: https://www.perl.org/
 .. _MacTeX: http://www.tug.org/mactex/
 .. _MikTeX: https://miktex.org/
@@ -170,7 +170,7 @@ You can change that with ``$pdf_update_method``, like in this example::
 
 Full documentation is available in the manpage_.
 
-.. _manpage: http://personal.psu.edu/~jcc8/software/latexmk/latexmk-469a.txt
+.. _manpage: https://www.cantab.net/users/johncollins/latexmk/latexmk-480.txt
 
 Local Configuration Files
 -------------------------
