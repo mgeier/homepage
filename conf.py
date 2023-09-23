@@ -56,6 +56,12 @@ linkcheck_ignore = [
     # let's just ignore all of them:
     'https://doi.org/',
     # Also, the point of DOIs is that they don't change, so we really shouldn't have to check them.
+
+    # 403 Client Error
+    'https://www.eesc.europa.eu/?i=portal.en.int-opinions.24976',
+
+    # https://github.com/vim/vim/issues/13079
+    'https://www.vim.org/',
 ]
 
 # -- Get version information and date from Git ----------------------------
