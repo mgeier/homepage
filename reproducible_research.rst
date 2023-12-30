@@ -485,6 +485,12 @@ PubMed Commons (post publication peer review)
 CKAN (Open Source data portal platform)
     https://ckan.org/
 
+sciety (curated preprints)
+    https://sciety.org/
+
+Peer Community in
+    https://peercommunityin.org/
+
 Journals
 --------
 
@@ -499,6 +505,10 @@ DRYAD
 
 The ReScience Journal
     http://rescience.github.io/
+
+Peer Community Journal
+    https://peercommunityjournal.org/
+
 
 Publications
 ------------
@@ -635,6 +645,16 @@ in the movement to improve science
 Proceedings of the National Academy of Sciences,
 2020
 
+Thomas H. Berquist,
+`Peer Review: Is the Process Broken?
+<https://doi.org/10.2214/AJR.12.9256>`__,
+American Journal of Roentgenology, Volume 199, Issue 2,
+2012
+
+Melinda Baldwin,
+`Peer Review <https://doi.org/10.34758/srde-jw27>`__,
+Encyclopedia of the History of Science
+2020
 
 Links
 -----
@@ -811,5 +831,28 @@ FAIR Principles (Findable, Accessible, Interoperable, Re-usable)
 The Turing Way: Guide for Reproducible Research
    https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html
 
+ASAPbio
+   https://asapbio.org/
+
+eLife's New Model: Changing the way you share your research
+   https://elifesciences.org/inside-elife/54d63486/elife-s-new-model-changing-the-way-you-share-your-research
+
+Project Free Our Knowledge
+   https://freeourknowledge.org/
+
+EU Council calls for transparent, equitable, and open access to scholarly publications
+   https://www.consilium.europa.eu/en/press/press-releases/2023/05/23/council-calls-for-transparent-equitable-and-open-access-to-scholarly-publications/
+
+The Rise of Peer Review: Melinda Baldwin on the History of Refereeing at Scientific Journals and Funding Bodies
+   https://scholarlykitchen.sspnet.org/2018/09/26/the-rise-of-peer-review-melinda-baldwin-on-the-history-of-refereeing-at-scientific-journals-and-funding-bodies/
+
+Peer Review -- A Historical Perspective
+   https://mitcommlab.mit.edu/broad/commkit/peer-review-a-historical-perspective/
+
+The Birth of Modern Peer Review
+   https://blogs.scientificamerican.com/information-culture/the-birth-of-modern-peer-review/
+
+Is the staggeringly profitable business of scientific publishing bad for science?
+   https://amp.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science
 
 .. vim:textwidth=80:spell
