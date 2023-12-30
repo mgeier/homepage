@@ -62,6 +62,9 @@ linkcheck_ignore = [
 
     # https://github.com/vim/vim/issues/13079
     'https://www.vim.org/',
+
+    # 403 Client Error
+    'https://www.consilium.europa.eu/en/press/press-releases/2023/05/23/council-calls-for-transparent-equitable-and-open-access-to-scholarly-publications/',
 ]
 
 # -- Get version information and date from Git ----------------------------
