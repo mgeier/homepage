@@ -696,7 +696,7 @@ Post-Publication Peer Review Mainstreamed
     https://www.the-scientist.com/daily-news/post-publication-peer-review-mainstreamed-38529
 
 Offene Wissenschaft (de)
-    http://www.offene-wissenschaft.de/
+    https://web.archive.org/web/20180706043644/http://www.offene-wissenschaft.de/
 
 mozilla Science Lab
     https://wiki.mozilla.org/ScienceLab
