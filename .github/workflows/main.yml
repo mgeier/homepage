@@ -27,7 +27,7 @@ jobs:
           python -m sphinx -W --keep-going --color -d _build/doctrees/ . _build/html/ -b html
       - name: Check links
         run: |
-          python -m sphinx -W --keep-going --color -d _build/doctrees/ . _build/linkcheck/ -b linkcheck
+          python -m sphinx -W --keep-going --color -d _build/doctrees/ . _build/linkcheck/ -b linkcheck -q
       - name: Upload results
         uses: actions/upload-artifact@v3
         if: ${{ success() || failure() }}
