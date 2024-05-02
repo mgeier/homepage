@@ -23,7 +23,7 @@ Make Tutorial
 
    * https://robjhyndman.com/hyndsight/makefiles/
    * http://kbroman.org/minimal_make/
-   * http://sidenote.hu/2012/02/04/makefile-for-large-latex-projects/
+   * https://web.archive.org/web/20230602040548/http://sidenote.hu/2012/02/04/makefile-for-large-latex-projects/
 
    But there is a *much* superior tool for that, see :doc:`../latexmk`!
 
