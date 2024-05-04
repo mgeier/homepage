@@ -153,17 +153,25 @@ https://docs.rs/minimp3_ex-sys/
 :raw-html:`<a class="github-button" href="https://github.com/mgeier/minimp3_ex-sys" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/minimp3_ex-sys on GitHub">mgeier/minimp3_ex-sys</a>`
 
 
-Work In Progress: Audio Scene Description Format (ASDF)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Audio Scene Description Format (ASDF) v0.4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Documentation/specification
-    https://AudioSceneDescriptionFormat.readthedocs.io/
+https://AudioSceneDescriptionFormat.readthedocs.io/
 
-Reference implementation (implemented in Rust)
-    https://github.com/AudioSceneDescriptionFormat/asdf-rust
+:raw-html:`<a class="github-button" href="https://github.com/AudioSceneDescriptionFormat/asdf" data-icon="octicon-star" data-show-count="true" aria-label="Star AudioSceneDescriptionFormat/asdf on GitHub">AudioSceneDescriptionFormat/asdf</a>`
 
-Documentation about splines (some of which are used in the ASDF)
-    https://splines.readthedocs.io/
+:raw-html:`<a class="github-button" href="https://github.com/AudioSceneDescriptionFormat/asdf-rust" data-icon="octicon-star" data-show-count="true" aria-label="Star AudioSceneDescriptionFormat/asdf-rust on GitHub">AudioSceneDescriptionFormat/asdf-rust</a>`
+
+:raw-html:`<a class="github-button" href="https://github.com/AudioSceneDescriptionFormat/asdfspline-rust" data-icon="octicon-star" data-show-count="true" aria-label="Star AudioSceneDescriptionFormat/asdfspline-rust on GitHub">AudioSceneDescriptionFormat/asdfspline-rust</a>`
+
+
+Documentation about splines (incl. Python module)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+https://splines.readthedocs.io/
+
+:raw-html:`<a class="github-button" href="https://github.com/AudioSceneDescriptionFormat/splines" data-icon="octicon-star" data-show-count="true" aria-label="Star AudioSceneDescriptionFormat/splines on GitHub">AudioSceneDescriptionFormat/splines</a>`
+
 
 Collaborations
 --------------
