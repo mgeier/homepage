@@ -27,7 +27,7 @@ https://python-sounddevice.readthedocs.io/
 :raw-html:`<a class="github-button" href="https://github.com/spatialaudio/python-sounddevice" data-icon="octicon-star" data-show-count="true" aria-label="Star spatialaudio/python-sounddevice on GitHub">spatialaudio/python-sounddevice</a>`
 
 For easier installation,
-I provide a pre-compiled PortAudio library for macOS and Windows:
+I provide a pre-compiled PortAudio library for macOS and Windows (with and without ASIO):
 
 https://github.com/spatialaudio/portaudio-binaries
 
@@ -241,6 +241,8 @@ Real-Time Ring Buffer for Rust
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A wait-free single-producer single-consumer ring buffer.
+
+https://docs.rs/rtrb/
 
 :raw-html:`<a class="github-button" href="https://github.com/mgeier/rtrb" data-icon="octicon-star" data-show-count="true" aria-label="Star mgeier/rtrb on GitHub">mgeier/rtrb</a>`
 
