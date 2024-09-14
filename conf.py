@@ -65,6 +65,10 @@ linkcheck_ignore = [
 
     # 403 Client Error
     'https://www.consilium.europa.eu/en/press/press-releases/2023/05/23/council-calls-for-transparent-equitable-and-open-access-to-scholarly-publications/',
+
+    'https://magazine.amstat.org/',
+
+    'https://www.upf.edu/web/mtg/phenicx-anechoic',
 ]
 
 # -- Get version information and date from Git ----------------------------
