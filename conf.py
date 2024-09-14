@@ -69,6 +69,8 @@ linkcheck_ignore = [
     'https://magazine.amstat.org/',
 
     'https://www.upf.edu/web/mtg/phenicx-anechoic',
+
+    'https://www.authorea.com/',
 ]
 
 # -- Get version information and date from Git ----------------------------
