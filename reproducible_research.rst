@@ -473,7 +473,7 @@ DataUp
     ``http://dataup.cdlib.org/``
 
 Authorea
-    https://authorea.com/
+    https://www.authorea.com/
 
 PubPeer (post publication peer review)
     https://pubpeer.com/
@@ -720,7 +720,7 @@ Madagascar
     http://www.ahay.org/wiki/Main_Page
 
 Reproducibility Initiative
-    http://reproducibilityinitiative.org/
+    ``http://reproducibilityinitiative.org/``
 
 The Need for Openness in Data Journalism
     https://nbviewer.jupyter.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb
@@ -730,7 +730,7 @@ Guidelines for Open Educational Resources (OER) in Higher Education
     http://oasis.col.org/handle/11599/60
 
 10 Simple Rules for the Care and Feeding of Scientific Data
-    https://authorea.com/users/3/articles/3410/_show_article
+    https://www.authorea.com/users/3/articles/3410/_show_article
 
 Scientific Python Lectures:
     https://github.com/jrjohansson/scientific-python-lectures
