@@ -71,6 +71,9 @@ linkcheck_ignore = [
     'https://www.upf.edu/web/mtg/phenicx-anechoic',
 
     'https://www.authorea.com/',
+
+    # 403 Client Error
+    'https://musopen.org/',
 ]
 
 # -- Get version information and date from Git ----------------------------
