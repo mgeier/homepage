@@ -57,7 +57,7 @@ License
 -------
 
 There are many possibilities, one of them is the
-`MIT license <https://opensource.org/licenses/mit-license.php>`_::
+`MIT license <https://opensource.org/license/mit>`_::
 
   Copyright (c) <year> <copyright holders>
   
