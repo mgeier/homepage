@@ -74,6 +74,9 @@ linkcheck_ignore = [
 
     # 403 Client Error
     'https://musopen.org/',
+
+    # 403 Client Error
+    'https://opensource.org/license/mit',
 ]
 
 # -- Get version information and date from Git ----------------------------
