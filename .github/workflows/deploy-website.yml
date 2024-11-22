@@ -1,0 +1,39 @@
+name: Build HTML pages and deploy to GitHub
+on:
+  push:
+    branches: [main]
+concurrency:
+  group: website
+  cancel-in-progress: true
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install pandoc
+        run: |
+          sudo apt-get install pandoc
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3
+      - name: Install requirements
+        run: |
+          python -m pip install -r requirements-website.txt
+      - name: Build HTML
+        run: |
+          python -m sphinx --color -d _build/doctrees . _build/html -b html
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _build/html
+          repository-name: mgeier/mgeier.github.io
+          branch: main
+          token: ${{ secrets.WEBSITE_TOKEN }}
+          commit-message: Website update
+          clean: true
+          #clean-exclude: |
+          #  robots.txt
