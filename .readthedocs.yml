@@ -8,7 +8,7 @@ build:
       - git fetch --unshallow || true
 python:
   install:
-    - requirements: .readthedocs_requirements.txt
+    - requirements: requirements-website.txt
 formats:
   - epub
   - pdf

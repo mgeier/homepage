@@ -19,9 +19,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: 3.8
-      - name: Install RTD requirements
+      - name: Install requirements
         run: |
-          python -m pip install -r .readthedocs_requirements.txt
+          python -m pip install -r requirements-website.txt
       - name: Build HTML
         run: |
           python -m sphinx -W --keep-going --color -d _build/doctrees/ . _build/html/ -b html
