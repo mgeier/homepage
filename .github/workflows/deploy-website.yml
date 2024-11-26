@@ -26,6 +26,12 @@ jobs:
       - name: Build HTML
         run: |
           python -m sphinx --color -d _build/doctrees . _build/html -b html
+      - name: Remove unneeded files
+        run: |
+          rm _build/html/.buildinfo
+      - name: Add .nojekyll
+        run: |
+          touch _build/html/.nojekyll
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
