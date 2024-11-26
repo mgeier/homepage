@@ -1,7 +1,7 @@
 name: Build HTML pages and deploy to GitHub
 on:
   push:
-    branches: [main]
+    branches: [master]
 concurrency:
   group: website
   cancel-in-progress: true
