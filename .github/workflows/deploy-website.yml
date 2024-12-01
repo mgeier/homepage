@@ -39,7 +39,7 @@ jobs:
           repository-name: mgeier/mgeier.github.io
           branch: main
           token: ${{ secrets.WEBSITE_TOKEN }}
-          commit-message: Website update
+          commit-message: Update from https://github.com/mgeier/homepage/commit/${{github.sha}}
           clean: true
           #clean-exclude: |
           #  robots.txt
