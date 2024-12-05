@@ -101,6 +101,8 @@ html_favicon = 'favicon.svg'
 html_copy_source = False
 html_use_index = False
 
+html_baseurl = 'https://mgeier.github.io'
+
 # -- Options for LaTeX output --------------------------------------------------
 
 latex_elements = {
