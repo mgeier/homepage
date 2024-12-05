@@ -30,6 +30,8 @@ jobs:
         run: |
           rm _build/html/.buildinfo
       - name: Add .nojekyll
+        # Alternatively, we could use
+        # https://www.sphinx-doc.org/en/master/usage/extensions/githubpages.html
         run: |
           touch _build/html/.nojekyll
       - name: Deploy
