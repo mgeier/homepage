@@ -43,5 +43,5 @@ jobs:
           token: ${{ secrets.WEBSITE_TOKEN }}
           commit-message: Update from https://github.com/mgeier/homepage/commit/${{github.sha}}
           clean: true
-          #clean-exclude: |
-          #  robots.txt
+          clean-exclude: |
+            robots.txt
