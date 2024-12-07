@@ -1,4 +1,4 @@
-Files for my "homepage" on rtfd.io
-==================================
+Files for my "homepage"
+=======================
 
-Have a look there: http://mg.rtfd.io/
+Have a look there: https://mgeier.github.io/
