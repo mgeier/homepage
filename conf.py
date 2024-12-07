@@ -77,6 +77,9 @@ linkcheck_ignore = [
 
     # 403 Client Error
     'https://opensource.org/license/mit',
+
+    # 403 Client Error
+    'https://wiki.mozilla.org/',
 ]
 
 # -- Get version information and date from Git ----------------------------
