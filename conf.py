@@ -80,6 +80,9 @@ linkcheck_ignore = [
 
     # 403 Client Error
     'https://wiki.mozilla.org/',
+
+    # 403 Client Error
+    'https://www.europeana.eu/',
 ]
 
 # -- Get version information and date from Git ----------------------------
