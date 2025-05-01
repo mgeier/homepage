@@ -690,7 +690,7 @@ European Commission: *Towards better access to scientific information*
     https://www.eesc.europa.eu/?i=portal.en.int-opinions.24976 (`PDF <https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0401:FIN:EN:PDF>`_)
 
 Preserving Research: The top online archives for storing your unpublished findings
-    https://www.the-scientist.com/careers/preserving-research-38930
+    https://web.archive.org/web/20200114201824/https://www.the-scientist.com/careers/preserving-research-38930
 
 Post-Publication Peer Review Mainstreamed
     https://www.the-scientist.com/daily-news/post-publication-peer-review-mainstreamed-38529
