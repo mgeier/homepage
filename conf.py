@@ -58,7 +58,7 @@ linkcheck_ignore = [
     # Also, the point of DOIs is that they don't change, so we really shouldn't have to check them.
 
     # 403 Client Error
-    'https://www.eesc.europa.eu/?i=portal.en.int-opinions.24976',
+    'https://www.eesc.europa.eu/',
 
     # https://github.com/vim/vim/issues/13079
     'https://www.vim.org/',
@@ -83,6 +83,12 @@ linkcheck_ignore = [
 
     # 403 Client Error
     'https://www.europeana.eu/',
+
+    # 403 Client Error
+    'https://asapbio.org/',
+
+    # 403 Client Error
+    'https://www.nas.org/',
 ]
 
 # -- Get version information and date from Git ----------------------------
