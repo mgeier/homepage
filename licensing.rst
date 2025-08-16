@@ -23,8 +23,6 @@ Logo downloads
 CC0
    https://creativecommons.org/publicdomain/zero/1.0/
 
-   chooser: https://creativecommons.org/choose/zero/
-
 CC license chooser
    https://creativecommons.org/choose/
 
