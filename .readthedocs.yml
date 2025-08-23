@@ -9,6 +9,8 @@ build:
 python:
   install:
     - requirements: requirements-website.txt
+sphinx:
+  configuration: conf.py
 formats:
   - epub
   - pdf
