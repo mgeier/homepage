@@ -9,8 +9,6 @@ This is some stuff I wrote/collected:
    git-jupyter
    importing-local-python-modules-from-jupyter-notebooks/index
    python-audio
-   reproducible_research
-   open_education
    licensing
    free_audio_data
    python
