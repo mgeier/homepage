@@ -89,6 +89,9 @@ linkcheck_ignore = [
 
     # 403 Client Error
     'https://www.nas.org/',
+
+    # 403 Client Error
+    'https://skim-app.sourceforge.io/',
 ]
 
 # -- Get version information and date from Git ----------------------------
