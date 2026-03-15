@@ -58,7 +58,7 @@ do this only once)::
 
 You may also want to set your favorite editor::
 
-    git config --global core.editor "gvim --nofork"
+    git config --global core.editor "nvim"
 
 To enable colors in ``git log`` et al.::
 
@@ -90,7 +90,11 @@ Command Line Prompt
 -------------------
 
 When working with branches, it is crucial to know the currently active branch.
-To show the current branch in the command line prompt, put this at the end of
+I recommend using https://starship.rs/ for nice shell prompts
+that by default include helpful information regarding the current Git worktree.
+
+For a less fancy way
+to show the current branch in the command line prompt, put this at the end of
 your :file:`~/.bashrc` (or wherever else you store settings for your shell)::
 
     # add git branch to prompt
@@ -201,19 +205,19 @@ Merging Branches
 
 .. todo:: ``git mergetool`` is really useful!
 
-Setting up Vim_ + fugitive_ as ``mergetool``::
+Setting up NeoVim_ + fugitive_ as ``mergetool``::
 
-    git config --global mergetool.fugitive.cmd 'gvim -f -c "Gdiff" "$MERGED"'
+    git config --global mergetool.fugitive.cmd 'nvim -f -c "Gvdiffsplit!" "$MERGED"'
     git config --global merge.tool fugitive
 
 On *macOS*, you can use *FileMerge* (you need to have *Xcode* installed)::
 
     git config --global merge.tool opendiff
 
-.. _Vim: https://www.vim.org/
+.. _NeoVim: https://neovim.io/
 .. _fugitive: https://github.com/tpope/vim-fugitive/
 
-.. todo:: more advertisement for Vim and fugitive!
+.. todo:: more advertisement for NeoVim and fugitive!
 
 More Aliases
 ------------
