@@ -211,7 +211,7 @@ https://sfs-python.readthedocs.io/
 The ``soundfile`` module can read and write sound files.
 File reading/writing is supported through libsndfile_ via CFFI_.
 
-.. _libsndfile: http://www.mega-nerd.com/libsndfile/
+.. _libsndfile: https://libsndfile.github.io/libsndfile/
 .. _CFFI: https://cffi.readthedocs.io/
 
 https://python-soundfile.readthedocs.io/
