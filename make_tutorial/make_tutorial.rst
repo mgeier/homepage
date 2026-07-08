@@ -14,7 +14,7 @@ Make Tutorial
 
 .. todo:: |make| runs other programs in the right order, handles intermediate files and generates files only if it's necessary (i.e. if the sources have changed).
 
-.. todo:: Documentation for GNU make: http://www.gnu.org/software/make/
+.. todo:: Documentation for GNU make: https://www.gnu.org/software/make/
 
 .. note:: Do not use |make| for running *LaTeX*!
 
@@ -22,7 +22,7 @@ Make Tutorial
    recommend it, e.g.
 
    * https://robjhyndman.com/hyndsight/makefiles/
-   * http://kbroman.org/minimal_make/
+   * https://kbroman.org/minimal_make/
    * https://web.archive.org/web/20230602040548/http://sidenote.hu/2012/02/04/makefile-for-large-latex-projects/
 
    But there is a *much* superior tool for that, see :doc:`../latexmk`!
@@ -84,7 +84,7 @@ The most important things to write in there, are so-called rules_. Those
 consist of *targets*, *prerequisites* and a *recipe*, which can have several
 lines.
 
-.. _rules: http://www.gnu.org/software/make/manual/make.html#Rule-Syntax
+.. _rules: https://www.gnu.org/software/make/manual/make.html#Rule-Syntax
 
 .. literalinclude:: Makefile.rule
 
@@ -243,7 +243,7 @@ TODO
 * $(BLABLA:%old=%new)
 
 * Target/pattern-specific variable values (incl ``override``):
-  http://www.gnu.org/software/make/manual/html_node/Target_002dspecific.html
-  http://www.gnu.org/software/make/manual/html_node/Pattern_002dspecific.html
+  https://www.gnu.org/software/make/manual/html_node/Target_002dspecific.html
+  https://www.gnu.org/software/make/manual/html_node/Pattern_002dspecific.html
 
 .. vim:textwidth=80
