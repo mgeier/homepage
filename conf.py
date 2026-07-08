@@ -92,6 +92,9 @@ linkcheck_ignore = [
 
     # 403 Client Error
     'https://skim-app.sourceforge.io/',
+
+    # [Errno 101] Network is unreachable
+    'https://www.gnu.org/',
 ]
 
 # -- Get version information and date from Git ----------------------------
