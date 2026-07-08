@@ -95,6 +95,9 @@ linkcheck_ignore = [
 
     # [Errno 101] Network is unreachable
     'https://www.gnu.org/',
+
+    # 429 Client Error: Too Many Requests
+    'https://blog.okfn.org/',
 ]
 
 # -- Get version information and date from Git ----------------------------
